@@ -657,8 +657,7 @@ with tab2:
             color='language', opacity=0.7, size_max=8,
             color_discrete_sequence=['#6366f1','#14b8a6','#f59e0b','#ec4899','#22d3ee','#a3e635'],
             title='Practice Hours vs Proficiency',
-            labels={'daily_practice_hours':'Practice Hours/Day', 'overall_proficiency':'Overall Score'},
-            trendline='ols',
+            labels={'daily_practice_hours':'Practice Hours/Day', 'overall_proficiency':'Overall Score'}
         )
         fig3.update_layout(
             paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)',
