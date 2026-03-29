@@ -1,0 +1,1401 @@
+language,age_group,education_level,exposure_type,daily_practice_hours,spoken_at_home,reading_score,writing_score,speaking_score,overall_proficiency
+Tamil,Teenager (13-19),Graduate,Native,11,Yes,100.0,87.9,97.1,94.9
+Bengali,Child (6-12),Secondary,Media + School,4,Yes,82.4,95.9,88.7,89.0
+Kannada,Child (6-12),Postgraduate,School Only,14,Yes,100.0,95.9,100.0,98.6
+Bengali,Teenager (13-19),Graduate,Immersive,10,Yes,100.0,100.0,100.0,100.0
+Bengali,Adult (20-35),Secondary,Media + School,4,No,73.9,83.5,91.9,82.7
+English,Child (6-12),Postgraduate,School Only,2,Yes,96.3,81.7,99.1,92.0
+Kannada,Adult (20-35),Graduate,Native,4,No,98.0,85.1,100.0,94.1
+Kannada,Teenager (13-19),Graduate,School Only,11,No,85.7,76.4,84.8,82.2
+Kannada,Teenager (13-19),No Formal,Native,1,No,54.1,42.3,38.8,45.4
+Bengali,Senior (36+),No Formal,School Only,3,Yes,57.7,37.0,53.7,49.3
+Tamil,Child (6-12),Postgraduate,Media + School,5,Yes,100.0,97.6,100.0,99.2
+Kannada,Teenager (13-19),Graduate,Native,0,Yes,100.0,94.6,100.0,98.1
+Marathi,Senior (36+),Primary,Media + School,9,No,55.4,69.7,69.9,64.8
+Bengali,Child (6-12),No Formal,Media + School,3,Yes,53.8,61.4,45.2,53.9
+English,Teenager (13-19),Postgraduate,Native,5,Yes,100.0,91.2,100.0,96.9
+Tamil,Teenager (13-19),Graduate,Native,8,No,95.2,93.4,99.9,96.0
+Marathi,Child (6-12),Graduate,Immersive,13,No,100.0,95.7,100.0,98.5
+Marathi,Child (6-12),Primary,Immersive,10,No,84.5,65.6,74.2,74.8
+English,Child (6-12),Postgraduate,Immersive,10,No,100.0,98.8,100.0,99.6
+Tamil,Teenager (13-19),Graduate,Media + School,12,No,100.0,94.2,100.0,98.0
+Bengali,Teenager (13-19),No Formal,Media + School,1,No,27.2,41.7,47.0,38.2
+Hindi,Senior (36+),Primary,Immersive,10,Yes,83.4,82.9,64.8,77.6
+Tamil,Adult (20-35),Postgraduate,Media + School,6,No,100.0,95.2,89.9,95.3
+English,Child (6-12),Primary,Media + School,5,Yes,71.9,61.0,52.4,62.2
+Marathi,Teenager (13-19),No Formal,Native,1,Yes,46.7,62.7,69.1,59.0
+Bengali,Teenager (13-19),Postgraduate,Native,7,Yes,100.0,100.0,100.0,100.0
+Tamil,Child (6-12),Primary,Media + School,6,No,61.5,51.7,45.7,53.3
+Hindi,Adult (20-35),Secondary,Immersive,10,Yes,100.0,90.6,81.3,91.1
+Hindi,Child (6-12),No Formal,School Only,4,No,18.4,30.0,30.9,26.2
+Kannada,Adult (20-35),No Formal,Immersive,11,No,60.2,48.5,58.4,55.6
+Kannada,Teenager (13-19),No Formal,School Only,4,Yes,47.1,39.7,47.2,44.5
+English,Adult (20-35),Secondary,Immersive,6,No,90.8,89.8,89.0,89.9
+Tamil,Senior (36+),Secondary,Native,8,Yes,100.0,96.9,100.0,98.9
+Tamil,Teenager (13-19),Graduate,Media + School,10,Yes,100.0,98.0,100.0,99.3
+Marathi,Senior (36+),Primary,Media + School,14,No,67.6,66.8,78.4,70.6
+Marathi,Child (6-12),Graduate,Native,8,Yes,100.0,100.0,100.0,100.0
+Marathi,Child (6-12),Primary,School Only,8,Yes,63.9,62.0,71.3,65.5
+Kannada,Child (6-12),Secondary,School Only,5,Yes,85.5,71.6,93.7,83.1
+Tamil,Adult (20-35),Secondary,School Only,9,No,84.6,67.8,63.5,72.4
+Tamil,Teenager (13-19),Graduate,Native,5,Yes,100.0,100.0,100.0,100.0
+Hindi,Child (6-12),Postgraduate,School Only,2,No,91.4,79.4,80.1,83.8
+Kannada,Child (6-12),Graduate,Native,0,No,98.0,82.4,88.6,89.7
+Bengali,Teenager (13-19),Primary,Immersive,6,Yes,74.6,66.2,67.6,69.6
+Kannada,Child (6-12),Graduate,Immersive,3,Yes,100.0,89.6,100.0,96.4
+Bengali,Senior (36+),No Formal,Native,0,No,63.4,56.8,68.0,62.5
+Hindi,Teenager (13-19),Primary,Media + School,14,No,66.5,55.8,75.8,65.5
+English,Teenager (13-19),Primary,Immersive,7,Yes,93.4,81.5,84.0,86.4
+Tamil,Teenager (13-19),Postgraduate,School Only,11,Yes,100.0,92.2,93.9,95.4
+Hindi,Senior (36+),Secondary,Native,5,No,98.1,76.7,95.6,89.9
+Tamil,Teenager (13-19),Primary,School Only,5,No,41.2,42.0,50.7,44.3
+Marathi,Senior (36+),Secondary,School Only,1,No,66.2,46.4,63.4,58.4
+English,Teenager (13-19),Graduate,Media + School,14,No,98.1,97.4,100.0,98.4
+English,Adult (20-35),No Formal,School Only,0,No,18.7,33.1,39.2,29.9
+Hindi,Child (6-12),Postgraduate,Media + School,12,Yes,100.0,100.0,100.0,100.0
+English,Adult (20-35),Secondary,Immersive,13,No,100.0,99.5,100.0,99.8
+Bengali,Child (6-12),Primary,Native,13,No,77.7,70.6,80.8,76.1
+English,Senior (36+),Secondary,School Only,1,Yes,59.5,65.2,77.7,67.0
+Tamil,Adult (20-35),Primary,Native,3,Yes,78.8,69.1,79.9,75.7
+Tamil,Teenager (13-19),Secondary,School Only,1,No,60.8,59.3,67.5,62.3
+Tamil,Child (6-12),Primary,Native,0,No,69.4,94.8,90.0,84.5
+Tamil,Child (6-12),Graduate,School Only,6,Yes,100.0,99.7,100.0,99.9
+Bengali,Adult (20-35),Primary,School Only,10,No,59.5,56.4,38.9,52.2
+Kannada,Senior (36+),Primary,School Only,10,No,74.8,42.3,63.8,60.1
+Marathi,Adult (20-35),No Formal,School Only,14,Yes,62.8,65.6,56.5,61.9
+Hindi,Senior (36+),Primary,School Only,11,No,58.7,77.9,72.8,69.6
+Tamil,Senior (36+),No Formal,School Only,7,Yes,37.6,48.7,64.6,49.6
+English,Child (6-12),Postgraduate,School Only,5,Yes,100.0,94.1,100.0,97.9
+Tamil,Adult (20-35),No Formal,School Only,3,Yes,41.8,42.6,47.5,43.8
+English,Adult (20-35),Graduate,School Only,13,Yes,100.0,87.2,100.0,95.5
+Marathi,Senior (36+),No Formal,Native,5,No,61.2,53.8,78.1,63.7
+Marathi,Adult (20-35),Postgraduate,Media + School,2,Yes,96.6,87.3,100.0,94.4
+Marathi,Teenager (13-19),Graduate,School Only,11,No,92.9,82.0,71.2,82.6
+English,Teenager (13-19),Secondary,Media + School,7,No,83.9,80.3,72.4,79.2
+Tamil,Adult (20-35),Secondary,School Only,9,No,85.7,64.7,70.6,73.8
+Marathi,Adult (20-35),No Formal,School Only,13,No,56.6,29.5,48.0,44.5
+Bengali,Senior (36+),No Formal,Native,12,No,74.1,58.8,64.4,65.8
+English,Teenager (13-19),Postgraduate,Immersive,12,Yes,100.0,100.0,100.0,100.0
+English,Teenager (13-19),Postgraduate,Immersive,1,Yes,100.0,93.6,97.1,96.9
+Tamil,Child (6-12),Primary,Native,4,Yes,91.0,70.1,81.4,80.8
+English,Senior (36+),Postgraduate,Media + School,0,Yes,92.3,100.0,90.7,94.5
+English,Child (6-12),Primary,Immersive,5,No,64.7,66.8,60.7,64.2
+Marathi,Teenager (13-19),Graduate,Native,1,Yes,100.0,100.0,100.0,100.0
+Tamil,Senior (36+),No Formal,Native,3,No,57.5,60.4,64.6,60.6
+Marathi,Adult (20-35),Graduate,Immersive,5,No,100.0,90.8,100.0,96.8
+Marathi,Senior (36+),Postgraduate,Media + School,9,Yes,100.0,98.1,100.0,99.3
+Tamil,Adult (20-35),Graduate,Native,10,Yes,100.0,100.0,100.0,100.0
+Hindi,Adult (20-35),Graduate,School Only,7,Yes,92.2,91.1,87.5,90.4
+Marathi,Senior (36+),Graduate,Media + School,11,Yes,100.0,99.7,92.7,97.7
+Bengali,Adult (20-35),Postgraduate,Media + School,7,No,100.0,100.0,100.0,100.0
+Bengali,Child (6-12),Graduate,Immersive,10,No,100.0,92.1,97.1,96.4
+English,Teenager (13-19),Primary,Immersive,5,Yes,75.3,78.5,87.6,80.1
+Bengali,Adult (20-35),Postgraduate,School Only,3,No,79.3,85.9,94.1,86.0
+English,Child (6-12),Graduate,Native,7,No,100.0,99.4,100.0,99.8
+Hindi,Adult (20-35),Postgraduate,Immersive,12,No,100.0,99.1,94.9,98.2
+Tamil,Teenager (13-19),Secondary,Immersive,7,Yes,100.0,73.9,96.3,89.8
+Tamil,Child (6-12),Primary,Media + School,9,No,71.1,74.1,100.0,80.8
+Tamil,Teenager (13-19),Graduate,Immersive,13,Yes,100.0,97.4,96.7,98.1
+Bengali,Teenager (13-19),Secondary,Immersive,0,Yes,80.1,100.0,66.8,83.1
+Hindi,Child (6-12),Secondary,Immersive,3,No,78.8,78.3,92.0,82.6
+Bengali,Child (6-12),Postgraduate,Immersive,3,No,100.0,98.9,100.0,99.6
+Bengali,Child (6-12),Secondary,Media + School,6,Yes,95.9,77.7,89.0,87.5
+Hindi,Senior (36+),Primary,School Only,13,No,66.0,58.9,73.7,65.8
+Hindi,Child (6-12),Primary,School Only,13,No,58.6,75.0,65.5,66.4
+Hindi,Child (6-12),No Formal,Native,10,Yes,90.1,57.4,59.1,69.4
+Hindi,Child (6-12),Primary,Immersive,6,Yes,79.4,78.1,82.3,79.8
+Tamil,Child (6-12),Secondary,Media + School,12,Yes,100.0,90.8,97.8,96.1
+Kannada,Adult (20-35),Primary,Native,10,Yes,85.1,96.1,87.5,89.7
+Kannada,Senior (36+),Postgraduate,Native,14,No,100.0,100.0,100.0,100.0
+Hindi,Teenager (13-19),No Formal,School Only,7,No,43.0,29.0,36.8,36.2
+Kannada,Child (6-12),Secondary,Media + School,10,Yes,77.9,89.6,100.0,88.6
+Kannada,Adult (20-35),No Formal,Media + School,4,Yes,70.1,42.6,56.9,56.5
+Hindi,Adult (20-35),Secondary,Media + School,6,Yes,97.3,95.7,95.7,96.3
+Kannada,Adult (20-35),Postgraduate,School Only,7,No,92.3,94.0,85.3,90.8
+Bengali,Teenager (13-19),No Formal,School Only,14,Yes,52.2,36.2,61.6,49.4
+English,Child (6-12),Graduate,School Only,8,No,89.8,83.9,85.1,86.3
+English,Senior (36+),Secondary,School Only,2,Yes,73.7,67.2,59.5,67.2
+Hindi,Senior (36+),Graduate,School Only,2,Yes,90.8,77.6,100.0,88.9
+Tamil,Adult (20-35),No Formal,Immersive,3,Yes,61.0,44.1,82.1,61.4
+Hindi,Teenager (13-19),Graduate,Immersive,4,No,100.0,100.0,100.0,100.0
+Tamil,Teenager (13-19),Graduate,Media + School,9,No,100.0,96.7,100.0,98.8
+English,Teenager (13-19),No Formal,Native,0,No,54.5,22.4,57.7,44.2
+Hindi,Senior (36+),Postgraduate,Media + School,14,Yes,100.0,95.3,100.0,98.4
+Marathi,Adult (20-35),Graduate,Native,14,No,100.0,100.0,100.0,100.0
+Bengali,Child (6-12),Graduate,School Only,6,No,97.1,73.9,98.4,89.4
+Kannada,Senior (36+),Postgraduate,Native,8,Yes,100.0,100.0,100.0,100.0
+Tamil,Adult (20-35),Graduate,Media + School,7,Yes,94.5,98.7,99.8,97.6
+Marathi,Adult (20-35),Graduate,Media + School,14,No,100.0,94.4,100.0,98.0
+Kannada,Child (6-12),Graduate,Native,14,No,99.3,96.7,97.9,98.0
+Kannada,Child (6-12),Primary,Immersive,4,No,70.4,81.2,80.5,77.2
+Hindi,Child (6-12),Postgraduate,School Only,13,No,100.0,94.9,100.0,98.2
+Kannada,Teenager (13-19),Graduate,School Only,13,Yes,100.0,100.0,97.9,99.4
+Bengali,Child (6-12),Postgraduate,Media + School,3,Yes,100.0,100.0,86.5,96.0
+Marathi,Adult (20-35),Secondary,Immersive,11,Yes,88.0,100.0,100.0,95.8
+Kannada,Child (6-12),Secondary,Native,6,No,85.2,83.2,100.0,88.9
+Hindi,Adult (20-35),Graduate,School Only,4,No,65.2,87.9,81.3,78.0
+Bengali,Senior (36+),Postgraduate,Immersive,6,Yes,100.0,98.6,100.0,99.5
+English,Teenager (13-19),Postgraduate,School Only,11,Yes,95.0,100.0,100.0,98.2
+Marathi,Senior (36+),Postgraduate,Immersive,0,No,100.0,96.9,100.0,98.9
+Kannada,Senior (36+),Primary,Immersive,0,No,43.4,44.2,73.6,52.7
+Hindi,Adult (20-35),Secondary,Media + School,9,Yes,88.9,82.8,78.6,83.7
+English,Senior (36+),Postgraduate,School Only,13,Yes,100.0,93.2,100.0,97.6
+English,Adult (20-35),Postgraduate,Native,12,Yes,100.0,89.7,100.0,96.4
+Tamil,Child (6-12),Primary,Media + School,2,No,49.1,64.8,71.7,61.4
+Bengali,Child (6-12),Primary,Media + School,13,No,72.3,75.9,61.6,70.4
+Kannada,Adult (20-35),Postgraduate,Native,10,No,100.0,95.7,100.0,98.5
+Hindi,Child (6-12),No Formal,Media + School,1,No,43.3,26.9,54.9,41.0
+Tamil,Teenager (13-19),Postgraduate,Immersive,1,No,90.6,89.7,89.1,89.8
+Bengali,Senior (36+),Postgraduate,Immersive,6,No,100.0,94.8,100.0,98.2
+Tamil,Teenager (13-19),Primary,School Only,11,Yes,49.9,76.2,97.8,73.5
+Marathi,Senior (36+),Primary,School Only,9,Yes,63.5,61.9,65.7,63.6
+Bengali,Child (6-12),Postgraduate,Native,1,No,100.0,94.1,99.4,97.8
+Bengali,Teenager (13-19),Postgraduate,School Only,10,Yes,100.0,98.1,100.0,99.3
+Kannada,Child (6-12),Postgraduate,Immersive,3,No,100.0,93.8,94.3,96.1
+Bengali,Senior (36+),Primary,Native,1,Yes,65.3,71.3,88.6,74.4
+Tamil,Adult (20-35),Postgraduate,Native,5,No,100.0,94.5,100.0,98.1
+Bengali,Adult (20-35),Postgraduate,School Only,7,Yes,100.0,100.0,100.0,100.0
+Kannada,Teenager (13-19),Graduate,Immersive,9,Yes,100.0,100.0,97.5,99.2
+Kannada,Child (6-12),No Formal,Native,3,No,49.9,51.6,44.9,49.0
+Marathi,Child (6-12),Secondary,Immersive,14,No,92.2,95.9,96.3,94.7
+Tamil,Teenager (13-19),No Formal,Immersive,4,Yes,66.6,52.7,47.5,56.0
+English,Adult (20-35),Graduate,Immersive,3,Yes,100.0,91.6,100.0,97.1
+English,Senior (36+),Secondary,School Only,2,No,62.3,71.1,68.7,67.3
+Bengali,Teenager (13-19),Postgraduate,Media + School,4,Yes,100.0,96.0,100.0,98.6
+Marathi,Senior (36+),Graduate,Media + School,13,No,91.1,100.0,94.3,95.2
+Hindi,Adult (20-35),Postgraduate,Native,8,No,100.0,100.0,100.0,100.0
+Bengali,Child (6-12),Primary,Immersive,7,Yes,86.8,80.3,71.3,79.9
+Marathi,Adult (20-35),Graduate,School Only,7,No,80.1,80.3,91.0,83.4
+Tamil,Teenager (13-19),Primary,Immersive,7,Yes,78.0,70.6,94.0,80.2
+Tamil,Child (6-12),Graduate,Immersive,11,Yes,100.0,100.0,100.0,100.0
+Tamil,Teenager (13-19),Graduate,School Only,7,No,83.4,88.2,96.9,89.1
+Tamil,Teenager (13-19),Primary,Media + School,6,Yes,84.8,68.6,80.2,77.8
+Tamil,Adult (20-35),Secondary,Immersive,7,No,91.9,82.5,97.4,90.3
+Marathi,Teenager (13-19),No Formal,Immersive,10,No,66.9,51.4,67.0,61.5
+Marathi,Adult (20-35),Postgraduate,Media + School,13,No,100.0,96.9,88.8,95.6
+Kannada,Child (6-12),Graduate,School Only,7,Yes,86.3,85.2,92.8,87.9
+English,Adult (20-35),Postgraduate,Native,12,No,100.0,97.8,100.0,99.2
+Tamil,Child (6-12),Primary,Media + School,13,Yes,76.0,76.9,90.4,80.6
+Hindi,Adult (20-35),Postgraduate,Native,7,No,100.0,97.5,100.0,99.1
+Marathi,Senior (36+),Primary,Native,11,No,85.6,88.2,81.6,85.3
+Hindi,Senior (36+),Postgraduate,Media + School,9,No,100.0,99.6,100.0,99.9
+Hindi,Teenager (13-19),No Formal,Immersive,6,Yes,63.8,65.9,59.5,63.2
+Hindi,Adult (20-35),No Formal,Native,11,Yes,71.0,80.8,87.5,79.4
+Kannada,Adult (20-35),No Formal,Native,0,No,51.6,38.1,43.0,44.3
+Marathi,Child (6-12),No Formal,School Only,3,No,40.6,46.7,42.2,43.2
+Hindi,Teenager (13-19),No Formal,Immersive,12,Yes,60.1,68.9,77.2,68.3
+Tamil,Adult (20-35),No Formal,Native,12,Yes,80.4,67.7,63.6,70.9
+Bengali,Teenager (13-19),Primary,School Only,3,Yes,67.0,47.3,55.9,56.8
+Hindi,Senior (36+),Graduate,Immersive,4,No,92.7,93.7,98.4,94.8
+Kannada,Adult (20-35),Postgraduate,Media + School,9,Yes,100.0,94.5,100.0,98.1
+Marathi,Adult (20-35),No Formal,Media + School,5,No,68.0,65.2,50.9,61.9
+Kannada,Teenager (13-19),Primary,School Only,3,Yes,58.7,53.6,65.4,58.9
+Hindi,Adult (20-35),Primary,Media + School,14,No,77.1,81.1,79.0,79.1
+Marathi,Teenager (13-19),Primary,Native,1,No,60.6,35.0,59.7,51.4
+Bengali,Adult (20-35),Graduate,Immersive,5,No,99.0,100.0,96.9,98.7
+Hindi,Child (6-12),Postgraduate,Native,14,Yes,100.0,90.2,100.0,96.6
+Kannada,Teenager (13-19),Graduate,Native,7,Yes,100.0,93.3,100.0,97.7
+English,Adult (20-35),Secondary,Media + School,14,Yes,90.8,95.2,90.7,92.3
+Tamil,Senior (36+),Primary,Native,7,No,77.2,66.8,67.7,70.7
+Kannada,Adult (20-35),Secondary,Media + School,6,No,88.7,72.0,75.6,78.9
+Marathi,Senior (36+),No Formal,Immersive,5,Yes,66.1,68.8,73.7,69.3
+Hindi,Senior (36+),No Formal,Immersive,1,No,54.2,58.9,52.1,55.2
+Tamil,Child (6-12),Graduate,Native,14,No,100.0,100.0,90.0,97.0
+Hindi,Teenager (13-19),Postgraduate,School Only,6,No,100.0,99.5,94.0,98.0
+Marathi,Adult (20-35),Secondary,Media + School,10,Yes,95.2,94.3,100.0,96.3
+Hindi,Child (6-12),Postgraduate,Media + School,11,No,100.0,94.4,100.0,98.0
+English,Adult (20-35),Graduate,Native,13,Yes,100.0,91.3,99.6,96.8
+Tamil,Senior (36+),No Formal,Media + School,13,Yes,59.6,85.2,79.1,74.4
+Tamil,Teenager (13-19),Postgraduate,Media + School,4,Yes,100.0,83.9,99.4,94.2
+Marathi,Adult (20-35),Postgraduate,School Only,5,Yes,100.0,89.8,99.5,96.3
+English,Adult (20-35),No Formal,School Only,9,Yes,55.9,46.2,48.4,50.3
+Kannada,Senior (36+),Secondary,Native,7,No,81.0,93.9,94.9,89.7
+Hindi,Adult (20-35),No Formal,School Only,13,Yes,67.9,51.6,59.7,59.7
+Bengali,Adult (20-35),Postgraduate,Native,7,Yes,100.0,97.8,95.1,97.8
+Hindi,Senior (36+),Secondary,Immersive,2,Yes,82.4,89.0,100.0,90.0
+Hindi,Child (6-12),Secondary,Native,11,No,84.2,100.0,96.9,93.5
+Kannada,Senior (36+),No Formal,Immersive,11,No,60.3,50.2,64.7,58.1
+Hindi,Child (6-12),Postgraduate,Native,13,No,100.0,100.0,97.2,99.2
+English,Teenager (13-19),Graduate,Media + School,6,No,92.9,97.9,90.8,94.0
+English,Child (6-12),Postgraduate,School Only,0,Yes,92.1,95.4,94.5,94.0
+Tamil,Child (6-12),Primary,Immersive,0,Yes,53.9,68.5,84.5,68.2
+Marathi,Teenager (13-19),Graduate,Native,6,No,100.0,94.9,99.1,97.9
+Bengali,Child (6-12),Secondary,School Only,14,No,78.6,79.9,100.0,85.5
+Hindi,Senior (36+),Graduate,Native,14,No,100.0,100.0,100.0,100.0
+Hindi,Child (6-12),Secondary,School Only,9,No,67.9,79.2,63.7,70.6
+Kannada,Teenager (13-19),Secondary,School Only,8,Yes,95.4,86.3,88.4,90.1
+Marathi,Senior (36+),Graduate,Native,6,No,88.7,86.3,100.0,91.2
+English,Teenager (13-19),Secondary,Immersive,9,No,99.0,92.4,95.0,95.5
+Bengali,Teenager (13-19),Secondary,Immersive,4,No,79.2,83.9,88.8,83.7
+Tamil,Adult (20-35),Primary,Media + School,7,No,70.4,66.8,64.4,67.3
+English,Adult (20-35),Postgraduate,School Only,1,No,87.1,89.4,89.8,88.7
+Marathi,Teenager (13-19),Postgraduate,Media + School,8,No,100.0,100.0,100.0,100.0
+Tamil,Teenager (13-19),Primary,Media + School,5,No,57.4,46.4,62.8,55.2
+Kannada,Teenager (13-19),Graduate,Native,12,Yes,100.0,100.0,96.9,99.1
+Kannada,Adult (20-35),No Formal,Native,8,Yes,83.4,72.5,54.7,71.0
+Hindi,Adult (20-35),No Formal,Native,1,Yes,60.6,43.0,63.2,55.2
+Marathi,Child (6-12),No Formal,School Only,2,Yes,44.8,42.3,51.4,45.9
+Bengali,Child (6-12),Primary,Native,11,Yes,100.0,88.1,78.8,89.5
+Tamil,Teenager (13-19),Primary,Native,7,Yes,77.2,92.6,100.0,89.4
+English,Senior (36+),Secondary,School Only,0,No,64.8,54.8,77.4,65.1
+Marathi,Senior (36+),No Formal,School Only,14,No,46.3,46.6,69.3,53.3
+Marathi,Adult (20-35),Graduate,Immersive,9,Yes,100.0,97.5,100.0,99.1
+Kannada,Adult (20-35),Graduate,Native,14,No,100.0,100.0,94.8,98.4
+Hindi,Adult (20-35),No Formal,Native,14,Yes,69.0,86.5,78.5,78.0
+Hindi,Teenager (13-19),No Formal,Native,14,No,64.8,53.0,86.0,67.0
+Tamil,Senior (36+),No Formal,Immersive,6,No,64.8,47.9,64.7,58.9
+Kannada,Child (6-12),Primary,Native,6,No,81.1,76.7,71.6,76.7
+Marathi,Teenager (13-19),Primary,Immersive,12,No,77.5,81.8,65.9,75.5
+Bengali,Child (6-12),Primary,Media + School,0,No,54.9,68.9,60.3,61.4
+Kannada,Child (6-12),Postgraduate,Immersive,8,No,100.0,100.0,100.0,100.0
+Tamil,Teenager (13-19),Graduate,Media + School,7,Yes,100.0,99.7,100.0,99.9
+Tamil,Child (6-12),Graduate,Native,3,Yes,100.0,93.7,100.0,97.8
+Kannada,Senior (36+),Secondary,Media + School,9,No,83.4,77.2,85.5,81.9
+Tamil,Child (6-12),Primary,Immersive,10,Yes,94.2,82.2,96.7,90.8
+Kannada,Senior (36+),Postgraduate,School Only,4,No,84.8,91.5,75.3,84.3
+English,Senior (36+),Postgraduate,Media + School,1,Yes,100.0,98.4,100.0,99.4
+Kannada,Senior (36+),Graduate,Media + School,12,No,88.8,100.0,92.7,93.9
+Kannada,Adult (20-35),Primary,Native,8,Yes,100.0,98.8,86.7,95.6
+Tamil,Child (6-12),Secondary,Immersive,14,No,93.0,100.0,100.0,97.6
+Tamil,Teenager (13-19),Primary,Media + School,11,Yes,77.6,86.5,83.8,82.6
+Hindi,Teenager (13-19),No Formal,Media + School,11,No,39.4,57.9,51.7,49.6
+Hindi,Child (6-12),Primary,Media + School,5,Yes,66.9,65.2,58.0,63.6
+English,Adult (20-35),No Formal,Media + School,2,No,32.7,32.6,41.7,35.4
+Hindi,Adult (20-35),No Formal,School Only,11,No,41.6,37.7,40.3,39.8
+Kannada,Senior (36+),Secondary,Immersive,6,No,82.9,77.9,88.2,82.7
+Tamil,Child (6-12),Graduate,Native,8,Yes,100.0,88.3,90.2,93.0
+Hindi,Child (6-12),Primary,Native,2,Yes,79.7,61.5,74.1,71.6
+Hindi,Teenager (13-19),No Formal,School Only,1,Yes,44.0,39.0,46.3,42.9
+English,Child (6-12),Primary,Immersive,6,No,60.2,68.7,88.3,71.6
+Marathi,Adult (20-35),Graduate,Media + School,6,Yes,95.0,98.3,100.0,97.7
+English,Child (6-12),Graduate,School Only,3,No,93.9,99.3,85.3,93.2
+Kannada,Teenager (13-19),Postgraduate,Immersive,10,Yes,100.0,100.0,100.0,100.0
+Tamil,Senior (36+),Graduate,Media + School,8,Yes,100.0,99.2,98.4,99.2
+English,Teenager (13-19),Secondary,School Only,13,Yes,87.6,75.1,100.0,86.9
+Hindi,Teenager (13-19),No Formal,Immersive,7,Yes,65.5,72.2,80.2,72.3
+Tamil,Senior (36+),Postgraduate,Native,12,No,100.0,99.8,100.0,99.9
+Tamil,Teenager (13-19),Secondary,Native,12,Yes,100.0,99.2,86.3,95.6
+Hindi,Teenager (13-19),Primary,Immersive,0,Yes,69.1,69.6,72.8,70.4
+English,Child (6-12),No Formal,Native,0,No,46.9,54.0,53.7,51.4
+Hindi,Child (6-12),Graduate,Immersive,4,No,95.6,71.1,93.0,86.2
+Marathi,Senior (36+),No Formal,Media + School,5,Yes,58.2,46.1,50.9,51.8
+Tamil,Child (6-12),Primary,Immersive,2,Yes,80.1,62.3,91.1,77.2
+Bengali,Child (6-12),Postgraduate,Media + School,12,No,100.0,96.7,100.0,98.8
+Bengali,Teenager (13-19),Postgraduate,School Only,8,No,100.0,80.1,100.0,93.0
+Kannada,Adult (20-35),Postgraduate,Immersive,11,No,100.0,100.0,100.0,100.0
+Hindi,Child (6-12),Graduate,School Only,9,Yes,100.0,95.5,100.0,98.4
+Hindi,Adult (20-35),Secondary,Native,13,Yes,100.0,91.2,98.9,96.6
+Kannada,Child (6-12),Secondary,Media + School,14,Yes,86.8,95.7,89.6,90.8
+Kannada,Child (6-12),No Formal,Immersive,5,No,31.5,37.6,74.5,46.5
+Kannada,Senior (36+),Graduate,School Only,3,No,82.6,81.1,66.6,77.3
+Tamil,Senior (36+),Postgraduate,Media + School,11,No,100.0,85.0,96.2,93.6
+Marathi,Senior (36+),Postgraduate,Media + School,6,Yes,100.0,100.0,99.3,99.8
+Hindi,Adult (20-35),Primary,Native,7,No,77.4,82.3,86.8,81.9
+Tamil,Teenager (13-19),Primary,Native,8,Yes,86.5,83.7,100.0,89.6
+Kannada,Child (6-12),Postgraduate,Media + School,12,No,100.0,100.0,91.2,97.4
+Hindi,Child (6-12),Postgraduate,Media + School,10,Yes,100.0,100.0,100.0,100.0
+Tamil,Child (6-12),Graduate,Immersive,5,Yes,100.0,100.0,96.2,98.9
+Marathi,Adult (20-35),Secondary,Media + School,14,No,96.9,91.3,86.7,91.9
+Tamil,Senior (36+),Primary,Immersive,5,Yes,75.8,85.3,84.2,81.6
+Marathi,Teenager (13-19),Secondary,Media + School,7,No,82.7,74.4,80.7,79.2
+Kannada,Adult (20-35),Graduate,Native,11,Yes,100.0,100.0,100.0,100.0
+Marathi,Senior (36+),Postgraduate,Immersive,4,No,100.0,100.0,100.0,100.0
+Hindi,Adult (20-35),Secondary,School Only,13,No,80.2,81.3,92.6,84.3
+Kannada,Teenager (13-19),Postgraduate,Native,2,Yes,100.0,100.0,100.0,100.0
+Hindi,Senior (36+),Postgraduate,Immersive,11,No,100.0,100.0,100.0,100.0
+Bengali,Adult (20-35),No Formal,Immersive,2,Yes,55.9,54.2,49.0,53.2
+English,Teenager (13-19),Secondary,School Only,12,No,63.3,72.7,88.9,74.3
+Marathi,Child (6-12),Secondary,Immersive,5,No,79.0,74.4,100.0,83.7
+English,Teenager (13-19),Postgraduate,Media + School,1,No,100.0,99.9,100.0,100.0
+English,Child (6-12),Graduate,School Only,5,No,80.1,95.6,88.2,88.0
+Marathi,Adult (20-35),No Formal,Native,12,Yes,76.0,61.2,85.3,73.6
+Kannada,Senior (36+),Postgraduate,Native,5,No,100.0,96.4,93.4,96.8
+Bengali,Senior (36+),Primary,Media + School,7,No,57.8,35.3,58.1,50.0
+Hindi,Adult (20-35),Primary,Native,6,Yes,71.7,94.9,78.5,81.9
+Tamil,Senior (36+),No Formal,Immersive,7,Yes,64.2,43.3,77.4,60.8
+Hindi,Senior (36+),Graduate,Immersive,13,Yes,100.0,100.0,100.0,100.0
+Tamil,Child (6-12),Postgraduate,Media + School,8,Yes,100.0,96.6,100.0,98.8
+Hindi,Adult (20-35),Secondary,Native,5,Yes,96.1,90.1,100.0,95.2
+Marathi,Teenager (13-19),No Formal,Native,13,Yes,83.4,73.9,86.0,80.9
+Bengali,Child (6-12),Graduate,Media + School,2,No,85.9,82.6,94.2,87.2
+Tamil,Adult (20-35),Secondary,School Only,9,Yes,86.0,63.5,94.6,80.7
+Kannada,Child (6-12),Primary,Native,2,No,82.5,60.8,63.1,69.1
+Hindi,Teenager (13-19),Primary,School Only,10,Yes,67.3,80.0,82.2,76.2
+Hindi,Teenager (13-19),Secondary,Native,11,No,98.7,88.0,91.8,92.9
+Tamil,Adult (20-35),No Formal,Native,0,No,45.9,42.8,70.9,52.3
+Kannada,Teenager (13-19),Primary,Native,10,No,73.2,91.1,87.1,83.6
+Kannada,Child (6-12),Postgraduate,Native,14,Yes,100.0,100.0,97.8,99.3
+Marathi,Teenager (13-19),Secondary,Immersive,12,Yes,99.2,98.4,100.0,99.2
+Marathi,Child (6-12),Secondary,School Only,14,Yes,93.9,96.0,82.7,91.3
+Marathi,Child (6-12),Primary,School Only,4,Yes,79.8,61.6,76.3,72.4
+Marathi,Teenager (13-19),No Formal,Native,13,No,63.8,83.3,78.5,75.0
+Marathi,Adult (20-35),Postgraduate,Native,3,Yes,100.0,100.0,98.2,99.5
+Marathi,Senior (36+),No Formal,School Only,8,No,41.5,49.2,43.7,44.9
+Bengali,Teenager (13-19),Graduate,Immersive,14,No,100.0,97.6,100.0,99.2
+Kannada,Child (6-12),Graduate,Media + School,8,Yes,100.0,93.3,100.0,97.7
+Marathi,Child (6-12),Primary,Media + School,14,Yes,94.3,86.5,100.0,93.3
+Kannada,Teenager (13-19),Primary,School Only,13,Yes,55.1,79.9,79.4,71.1
+Kannada,Adult (20-35),Primary,Native,4,No,51.9,65.2,69.6,61.9
+English,Adult (20-35),Graduate,Native,9,Yes,100.0,100.0,91.7,97.5
+Bengali,Child (6-12),No Formal,Immersive,3,No,58.3,58.7,36.1,51.8
+Marathi,Child (6-12),No Formal,Media + School,6,Yes,44.5,72.7,60.2,59.1
+Hindi,Adult (20-35),Primary,Immersive,14,No,56.9,77.8,86.9,73.2
+Tamil,Senior (36+),Postgraduate,Media + School,5,Yes,100.0,94.1,100.0,97.9
+Hindi,Teenager (13-19),No Formal,School Only,3,Yes,46.4,50.2,53.9,50.0
+Bengali,Child (6-12),Graduate,Media + School,12,No,92.3,93.8,98.8,94.8
+Tamil,Child (6-12),Secondary,Immersive,12,Yes,95.1,90.4,100.0,94.9
+Bengali,Adult (20-35),Secondary,Immersive,14,Yes,98.2,98.1,91.5,96.2
+Kannada,Teenager (13-19),Secondary,Immersive,9,Yes,99.4,97.5,100.0,98.9
+Tamil,Adult (20-35),Postgraduate,School Only,1,Yes,91.5,84.7,100.0,91.7
+Kannada,Teenager (13-19),Primary,Media + School,0,Yes,67.0,61.0,68.4,65.3
+Hindi,Teenager (13-19),Graduate,Media + School,3,Yes,74.7,91.5,98.3,87.7
+Hindi,Teenager (13-19),Postgraduate,Immersive,3,Yes,100.0,87.7,100.0,95.7
+Tamil,Child (6-12),Graduate,Media + School,12,No,92.0,82.0,95.2,89.5
+Tamil,Senior (36+),Graduate,Native,0,No,92.9,100.0,92.0,95.1
+Marathi,Adult (20-35),Primary,Native,5,Yes,78.2,90.8,82.3,83.8
+Bengali,Senior (36+),Secondary,Native,3,Yes,100.0,91.9,100.0,97.2
+Marathi,Adult (20-35),Primary,Media + School,0,Yes,48.1,66.7,71.1,61.5
+Bengali,Teenager (13-19),Postgraduate,School Only,0,No,85.4,90.8,94.4,90.0
+Marathi,Child (6-12),Postgraduate,School Only,14,No,100.0,100.0,100.0,100.0
+Kannada,Senior (36+),Postgraduate,School Only,12,Yes,100.0,100.0,94.7,98.4
+Tamil,Child (6-12),Primary,School Only,0,No,41.1,53.1,52.1,48.6
+Hindi,Adult (20-35),Graduate,Native,7,Yes,100.0,95.6,100.0,98.5
+Bengali,Child (6-12),Graduate,Native,9,Yes,100.0,89.9,100.0,96.5
+Bengali,Child (6-12),No Formal,Immersive,7,Yes,46.4,77.5,71.0,64.7
+Hindi,Senior (36+),Postgraduate,Media + School,1,Yes,100.0,100.0,99.2,99.8
+Marathi,Teenager (13-19),Graduate,Media + School,10,No,98.0,89.4,100.0,95.6
+Bengali,Child (6-12),No Formal,School Only,12,No,57.4,51.4,52.2,53.7
+Kannada,Teenager (13-19),Graduate,Native,6,Yes,100.0,96.5,97.5,98.0
+Tamil,Adult (20-35),Postgraduate,School Only,13,No,100.0,91.9,100.0,97.2
+Hindi,Child (6-12),Secondary,Immersive,7,No,100.0,89.6,68.3,86.8
+Tamil,Senior (36+),Postgraduate,Media + School,7,Yes,100.0,100.0,100.0,100.0
+Bengali,Adult (20-35),Primary,Media + School,10,No,70.2,75.6,88.2,77.5
+Bengali,Adult (20-35),Graduate,School Only,9,Yes,98.6,90.7,88.1,92.7
+Hindi,Senior (36+),Graduate,Immersive,14,Yes,100.0,100.0,100.0,100.0
+Kannada,Child (6-12),Primary,Media + School,10,Yes,88.8,70.1,72.1,77.2
+English,Child (6-12),Primary,Immersive,12,Yes,83.1,91.4,83.9,86.2
+Hindi,Adult (20-35),Secondary,Immersive,6,No,88.0,95.3,95.5,92.8
+English,Child (6-12),Graduate,School Only,4,Yes,78.5,86.3,97.1,86.8
+Marathi,Teenager (13-19),Graduate,Native,0,No,85.6,89.1,100.0,91.1
+English,Senior (36+),Secondary,School Only,11,Yes,98.0,92.6,92.4,94.4
+Kannada,Teenager (13-19),No Formal,Native,8,Yes,69.2,86.5,73.3,76.5
+Marathi,Child (6-12),Secondary,Immersive,12,No,100.0,85.0,100.0,94.8
+English,Adult (20-35),Postgraduate,Native,6,Yes,100.0,96.0,100.0,98.6
+Marathi,Senior (36+),Graduate,Immersive,1,No,76.8,99.4,92.7,89.5
+English,Child (6-12),Primary,Media + School,5,No,67.6,55.4,62.4,61.8
+Kannada,Child (6-12),Postgraduate,Media + School,1,Yes,99.8,100.0,100.0,99.9
+English,Adult (20-35),Graduate,Media + School,14,Yes,100.0,99.2,95.5,98.4
+English,Adult (20-35),Secondary,School Only,0,Yes,70.2,57.1,66.3,64.4
+English,Teenager (13-19),Postgraduate,School Only,13,Yes,100.0,100.0,100.0,100.0
+Hindi,Senior (36+),Graduate,Immersive,6,Yes,100.0,95.2,100.0,98.3
+Hindi,Senior (36+),No Formal,Media + School,12,Yes,83.6,79.4,56.5,74.0
+Hindi,Adult (20-35),No Formal,School Only,1,No,35.4,32.0,49.4,38.4
+Kannada,Teenager (13-19),Primary,Media + School,12,No,70.5,70.5,72.7,71.2
+Marathi,Senior (36+),Graduate,School Only,13,Yes,100.0,99.8,100.0,99.9
+Bengali,Adult (20-35),No Formal,Native,13,No,71.2,70.5,71.5,71.0
+English,Child (6-12),Secondary,Native,1,No,83.2,71.9,82.5,79.0
+English,Senior (36+),Graduate,Media + School,12,Yes,100.0,100.0,100.0,100.0
+Kannada,Teenager (13-19),Secondary,Immersive,10,Yes,100.0,92.9,98.5,97.1
+English,Teenager (13-19),Secondary,School Only,4,No,74.3,56.8,43.7,59.0
+Hindi,Teenager (13-19),No Formal,School Only,13,Yes,52.8,52.7,57.3,54.1
+Bengali,Child (6-12),Graduate,Native,4,No,100.0,92.9,100.0,97.5
+Tamil,Senior (36+),Postgraduate,Native,6,Yes,100.0,95.0,92.1,95.9
+English,Senior (36+),No Formal,Immersive,0,No,37.9,39.8,51.2,42.6
+Hindi,Child (6-12),No Formal,Immersive,7,No,63.5,38.6,45.2,49.3
+Tamil,Senior (36+),Graduate,Immersive,2,No,90.7,93.8,100.0,94.6
+Bengali,Child (6-12),Graduate,Media + School,3,No,93.6,73.3,87.6,84.7
+Tamil,Child (6-12),Secondary,Native,14,Yes,100.0,100.0,94.8,98.4
+Hindi,Child (6-12),Graduate,Media + School,8,Yes,100.0,100.0,100.0,100.0
+Marathi,Teenager (13-19),Secondary,Native,3,No,88.4,81.7,71.6,81.0
+Marathi,Senior (36+),No Formal,Native,9,No,65.8,79.0,68.2,71.1
+Tamil,Child (6-12),Primary,School Only,11,Yes,55.5,63.8,64.9,61.2
+Kannada,Senior (36+),Postgraduate,Native,14,Yes,100.0,91.3,99.1,96.7
+Tamil,Teenager (13-19),No Formal,Native,4,No,63.4,64.8,39.5,56.7
+English,Child (6-12),Graduate,Media + School,6,No,90.9,97.3,100.0,95.9
+English,Adult (20-35),Postgraduate,Native,3,No,100.0,99.7,100.0,99.9
+Marathi,Teenager (13-19),Primary,Media + School,13,No,61.6,75.8,77.4,71.3
+Kannada,Adult (20-35),Primary,Immersive,0,No,51.4,60.3,60.9,57.4
+Hindi,Senior (36+),Secondary,Native,8,Yes,85.8,97.5,100.0,94.2
+English,Senior (36+),Postgraduate,Native,3,No,100.0,100.0,96.5,99.0
+Marathi,Teenager (13-19),Secondary,Media + School,8,Yes,85.2,84.9,96.3,88.4
+Bengali,Senior (36+),No Formal,Immersive,5,Yes,54.8,50.9,71.6,58.5
+Marathi,Adult (20-35),Postgraduate,School Only,14,Yes,100.0,100.0,100.0,100.0
+English,Child (6-12),No Formal,Immersive,0,No,47.9,37.1,48.4,44.3
+English,Child (6-12),Secondary,Media + School,11,Yes,100.0,81.7,90.6,90.8
+Marathi,Child (6-12),Postgraduate,Immersive,2,Yes,100.0,92.7,98.4,97.0
+Hindi,Teenager (13-19),Secondary,Media + School,10,Yes,100.0,100.0,92.6,97.8
+Tamil,Senior (36+),Postgraduate,Media + School,1,Yes,100.0,100.0,100.0,100.0
+English,Adult (20-35),Secondary,School Only,8,No,65.8,84.7,63.0,71.6
+Marathi,Senior (36+),Primary,Native,14,No,87.6,92.2,88.9,89.6
+Marathi,Senior (36+),Secondary,Media + School,11,Yes,90.8,96.0,98.9,95.0
+Kannada,Senior (36+),Primary,Media + School,0,Yes,64.5,71.8,77.1,70.8
+Tamil,Child (6-12),Secondary,School Only,12,No,90.1,82.1,72.2,81.9
+Bengali,Adult (20-35),Postgraduate,Media + School,13,No,100.0,97.3,100.0,99.1
+Hindi,Adult (20-35),Postgraduate,Native,8,No,100.0,96.9,100.0,98.9
+Bengali,Senior (36+),Postgraduate,School Only,8,Yes,100.0,100.0,100.0,100.0
+Tamil,Child (6-12),Graduate,Native,7,No,93.6,90.5,95.9,93.2
+Tamil,Child (6-12),No Formal,Native,7,Yes,68.8,69.2,66.2,68.2
+Tamil,Adult (20-35),Postgraduate,School Only,10,Yes,100.0,100.0,100.0,100.0
+Bengali,Child (6-12),Primary,Media + School,13,No,60.3,85.3,69.8,71.9
+Tamil,Child (6-12),Postgraduate,Native,11,Yes,100.0,100.0,100.0,100.0
+Marathi,Child (6-12),Graduate,Native,0,No,96.0,100.0,100.0,98.6
+Bengali,Teenager (13-19),Primary,Native,10,Yes,82.1,83.6,95.9,86.8
+Tamil,Senior (36+),Graduate,Native,7,No,99.2,98.2,100.0,99.1
+Marathi,Adult (20-35),Primary,School Only,9,Yes,65.1,63.0,72.4,66.6
+Kannada,Adult (20-35),Secondary,School Only,13,Yes,78.6,93.3,83.7,85.3
+Tamil,Teenager (13-19),No Formal,Immersive,2,No,40.2,48.4,50.5,46.2
+Bengali,Senior (36+),No Formal,Immersive,10,No,65.6,44.9,69.0,59.4
+English,Adult (20-35),Graduate,Native,6,No,93.5,100.0,95.7,96.4
+Tamil,Child (6-12),No Formal,Media + School,10,No,40.2,49.2,45.2,44.8
+English,Adult (20-35),Graduate,Native,14,Yes,100.0,95.8,100.0,98.5
+Marathi,Child (6-12),Graduate,Media + School,0,No,88.9,84.3,74.6,83.0
+Kannada,Teenager (13-19),Graduate,Native,0,No,93.4,100.0,100.0,97.7
+Hindi,Child (6-12),No Formal,Immersive,9,Yes,64.8,63.3,74.3,67.1
+Kannada,Adult (20-35),Graduate,Immersive,12,No,100.0,100.0,100.0,100.0
+Tamil,Adult (20-35),No Formal,Media + School,4,No,30.0,57.7,43.1,43.6
+English,Adult (20-35),Graduate,Native,4,Yes,100.0,98.8,100.0,99.6
+English,Teenager (13-19),Postgraduate,Media + School,7,No,100.0,95.8,100.0,98.5
+Bengali,Teenager (13-19),Graduate,Immersive,6,No,95.7,89.3,100.0,94.8
+English,Senior (36+),Primary,Native,7,No,83.5,77.1,81.2,80.6
+Bengali,Adult (20-35),Graduate,Native,5,No,93.5,99.3,97.5,96.7
+Marathi,Child (6-12),Secondary,Media + School,5,No,84.5,78.3,80.6,81.2
+Hindi,Teenager (13-19),Graduate,School Only,1,No,77.7,82.8,83.2,81.1
+Tamil,Adult (20-35),Primary,Media + School,5,Yes,67.8,77.7,79.3,74.7
+Bengali,Adult (20-35),Primary,Immersive,4,No,65.8,40.4,73.2,59.1
+Hindi,Teenager (13-19),No Formal,Immersive,12,Yes,72.1,74.3,84.2,76.5
+English,Senior (36+),Postgraduate,Immersive,2,Yes,100.0,92.2,99.3,97.1
+English,Teenager (13-19),Graduate,Immersive,5,Yes,98.9,91.6,100.0,96.7
+Hindi,Teenager (13-19),No Formal,Immersive,7,Yes,59.4,77.5,86.7,73.9
+English,Child (6-12),Postgraduate,School Only,8,No,100.0,84.8,87.9,91.0
+Marathi,Child (6-12),Graduate,Native,0,No,90.2,72.0,98.5,86.3
+Marathi,Senior (36+),Secondary,Media + School,2,No,78.2,59.9,92.9,76.2
+Hindi,Adult (20-35),Graduate,Media + School,2,Yes,100.0,93.4,98.3,97.2
+Bengali,Teenager (13-19),Primary,Immersive,10,No,71.8,74.1,90.6,78.2
+Bengali,Senior (36+),Primary,Media + School,7,No,69.0,70.5,58.8,66.5
+Hindi,Child (6-12),Secondary,Immersive,0,No,65.8,55.8,69.8,63.5
+Bengali,Teenager (13-19),No Formal,School Only,4,Yes,52.0,40.2,53.3,48.3
+Bengali,Adult (20-35),Postgraduate,School Only,2,Yes,99.6,98.8,100.0,99.4
+Marathi,Child (6-12),Graduate,Native,1,No,100.0,97.4,94.4,97.4
+Bengali,Child (6-12),Primary,School Only,14,Yes,70.8,76.7,59.7,69.5
+Kannada,Child (6-12),No Formal,School Only,7,Yes,37.2,49.6,45.9,44.2
+Tamil,Senior (36+),Secondary,Native,2,No,87.0,87.1,68.0,81.3
+English,Adult (20-35),Primary,Media + School,6,Yes,55.5,61.0,77.4,64.0
+Kannada,Teenager (13-19),Secondary,Immersive,11,Yes,99.0,98.2,100.0,99.0
+Bengali,Senior (36+),Graduate,Immersive,10,No,100.0,88.6,100.0,96.0
+Marathi,Senior (36+),Postgraduate,Media + School,0,Yes,100.0,99.6,100.0,99.9
+Hindi,Senior (36+),Primary,Native,5,Yes,98.1,67.1,88.4,84.3
+Bengali,Child (6-12),Primary,Media + School,2,Yes,74.2,73.8,67.3,72.0
+Marathi,Adult (20-35),Graduate,School Only,7,Yes,90.3,97.6,97.0,94.9
+Tamil,Senior (36+),No Formal,Native,5,Yes,67.7,76.5,67.3,70.7
+Bengali,Teenager (13-19),Postgraduate,Native,11,Yes,100.0,93.2,100.0,97.6
+Hindi,Adult (20-35),Primary,Native,1,Yes,63.8,69.2,87.8,72.9
+Marathi,Teenager (13-19),Postgraduate,Immersive,5,Yes,100.0,96.2,100.0,98.7
+Marathi,Adult (20-35),Primary,Media + School,6,No,57.5,63.0,68.5,62.7
+Marathi,Teenager (13-19),Postgraduate,Native,4,No,94.7,93.4,92.0,93.4
+Tamil,Child (6-12),Secondary,Native,2,No,83.4,73.7,74.7,77.4
+Bengali,Senior (36+),Primary,Native,3,No,67.5,68.6,82.4,72.4
+Tamil,Teenager (13-19),Postgraduate,Media + School,3,Yes,94.1,86.9,100.0,93.4
+English,Adult (20-35),No Formal,Immersive,5,No,55.7,47.7,52.1,51.8
+English,Senior (36+),Secondary,School Only,9,No,79.2,91.1,73.9,81.8
+Bengali,Senior (36+),Secondary,Immersive,0,Yes,86.8,90.9,69.9,83.2
+Tamil,Adult (20-35),No Formal,Native,10,Yes,72.4,90.8,75.8,79.9
+Hindi,Teenager (13-19),Postgraduate,Immersive,3,Yes,100.0,99.7,100.0,99.9
+Marathi,Child (6-12),Graduate,Immersive,9,Yes,100.0,94.1,100.0,97.9
+Marathi,Child (6-12),No Formal,School Only,12,Yes,60.5,53.2,59.5,57.6
+Bengali,Teenager (13-19),Postgraduate,Media + School,3,No,90.9,90.0,100.0,93.3
+English,Senior (36+),No Formal,Media + School,9,Yes,63.7,55.2,60.8,59.9
+English,Senior (36+),No Formal,Immersive,0,No,54.6,48.3,64.3,55.3
+Marathi,Senior (36+),Primary,Immersive,8,No,67.2,63.4,79.3,69.5
+Bengali,Senior (36+),Postgraduate,Media + School,3,Yes,100.0,100.0,100.0,100.0
+Tamil,Teenager (13-19),Graduate,Media + School,6,No,87.8,86.4,100.0,91.0
+English,Senior (36+),Primary,School Only,11,No,61.8,67.7,54.9,61.8
+Tamil,Adult (20-35),No Formal,Native,13,Yes,74.1,67.5,63.9,68.7
+English,Senior (36+),No Formal,Immersive,2,No,49.8,46.0,59.8,51.5
+English,Child (6-12),No Formal,Media + School,9,No,37.6,51.8,55.2,47.8
+Kannada,Senior (36+),Postgraduate,Immersive,11,No,100.0,100.0,100.0,100.0
+English,Teenager (13-19),Postgraduate,Immersive,2,Yes,100.0,94.5,100.0,98.1
+Hindi,Child (6-12),Primary,Media + School,13,Yes,83.6,93.7,81.0,86.4
+Bengali,Teenager (13-19),Graduate,School Only,7,Yes,100.0,84.2,100.0,94.5
+Bengali,Teenager (13-19),Primary,Immersive,7,No,75.7,70.4,71.9,72.7
+Tamil,Child (6-12),Secondary,School Only,10,Yes,66.0,70.1,98.7,77.2
+English,Teenager (13-19),No Formal,Media + School,11,No,70.8,50.7,40.0,54.5
+Hindi,Teenager (13-19),No Formal,Native,0,Yes,62.4,58.2,60.9,60.5
+Tamil,Senior (36+),No Formal,Native,9,No,57.3,66.9,69.9,64.4
+Kannada,Adult (20-35),Primary,Immersive,1,Yes,72.8,71.5,88.6,77.1
+Tamil,Teenager (13-19),Primary,Media + School,7,Yes,74.9,51.0,66.5,64.0
+Tamil,Teenager (13-19),No Formal,School Only,0,No,24.7,17.2,41.8,27.2
+English,Teenager (13-19),Primary,Immersive,14,Yes,92.6,88.3,100.0,93.3
+Kannada,Senior (36+),Postgraduate,Media + School,11,No,100.0,91.9,100.0,97.2
+Tamil,Adult (20-35),Postgraduate,Media + School,7,Yes,100.0,95.0,100.0,98.2
+Hindi,Child (6-12),Primary,School Only,7,Yes,60.0,68.7,74.1,67.3
+Hindi,Senior (36+),No Formal,Immersive,1,No,35.0,65.7,66.8,55.3
+Bengali,Senior (36+),Primary,Media + School,3,No,58.7,63.7,68.1,63.3
+Kannada,Adult (20-35),Primary,Media + School,5,No,65.2,68.4,37.4,58.0
+Kannada,Adult (20-35),Primary,Media + School,11,Yes,83.6,67.9,88.0,79.4
+Bengali,Senior (36+),Secondary,School Only,10,No,81.6,76.1,83.2,80.2
+Tamil,Child (6-12),Postgraduate,Immersive,8,Yes,100.0,94.9,98.1,97.6
+Kannada,Senior (36+),Graduate,Immersive,14,No,100.0,97.4,100.0,99.1
+Hindi,Adult (20-35),Graduate,Immersive,7,No,100.0,100.0,100.0,100.0
+Hindi,Child (6-12),Secondary,Immersive,11,No,80.6,87.4,98.1,88.2
+English,Adult (20-35),Primary,Native,14,No,78.8,82.7,73.6,78.6
+Kannada,Child (6-12),Secondary,Native,7,No,82.8,96.3,98.3,92.2
+Tamil,Teenager (13-19),Secondary,Immersive,6,No,92.6,83.3,86.9,87.6
+Bengali,Adult (20-35),No Formal,School Only,13,Yes,67.0,50.7,61.4,59.6
+Bengali,Adult (20-35),Postgraduate,Native,12,No,100.0,98.8,100.0,99.6
+Tamil,Senior (36+),Graduate,Media + School,8,Yes,100.0,97.6,92.8,97.0
+Marathi,Adult (20-35),Primary,Native,14,No,79.0,74.2,84.1,78.8
+English,Adult (20-35),Graduate,Media + School,1,No,87.3,76.7,85.9,83.2
+Bengali,Teenager (13-19),Graduate,Immersive,2,No,92.0,100.0,100.0,97.2
+Kannada,Adult (20-35),Postgraduate,Native,9,Yes,100.0,94.3,100.0,98.0
+English,Teenager (13-19),Graduate,School Only,7,Yes,94.6,78.1,93.4,88.5
+Kannada,Teenager (13-19),Graduate,Native,13,No,100.0,100.0,100.0,100.0
+Hindi,Teenager (13-19),Secondary,Native,5,Yes,100.0,87.1,100.0,95.5
+English,Teenager (13-19),Postgraduate,Native,9,No,100.0,92.4,100.0,97.3
+Bengali,Child (6-12),No Formal,Immersive,8,No,51.7,47.5,71.8,56.3
+English,Senior (36+),Primary,School Only,9,Yes,68.0,68.7,78.6,71.4
+English,Child (6-12),Graduate,Native,3,Yes,100.0,100.0,96.5,99.0
+English,Adult (20-35),Primary,School Only,7,Yes,45.5,59.1,72.7,58.4
+Marathi,Child (6-12),No Formal,Immersive,9,Yes,70.1,65.4,63.0,66.3
+English,Child (6-12),Primary,Media + School,2,No,60.9,56.6,57.1,58.3
+Kannada,Adult (20-35),No Formal,Native,2,Yes,65.1,54.1,72.6,63.5
+Hindi,Adult (20-35),Secondary,School Only,7,Yes,64.9,81.0,90.4,78.2
+Tamil,Adult (20-35),Graduate,School Only,4,No,78.2,85.9,73.0,79.3
+English,Child (6-12),No Formal,Immersive,2,Yes,40.3,79.7,57.9,59.4
+Bengali,Child (6-12),Primary,Native,9,Yes,99.5,83.0,91.8,91.4
+English,Adult (20-35),Graduate,Media + School,10,Yes,99.3,91.7,100.0,96.8
+Bengali,Senior (36+),Secondary,School Only,0,Yes,80.0,74.9,61.7,72.7
+Kannada,Senior (36+),Graduate,Native,14,No,100.0,94.2,100.0,98.0
+Bengali,Teenager (13-19),No Formal,Media + School,2,No,33.8,23.5,25.6,27.7
+Tamil,Adult (20-35),Secondary,School Only,11,Yes,77.4,75.1,96.5,82.3
+Hindi,Teenager (13-19),Primary,School Only,8,Yes,69.8,53.7,52.8,59.1
+Bengali,Senior (36+),Secondary,Media + School,4,No,67.2,79.4,97.8,80.6
+Bengali,Teenager (13-19),Secondary,Media + School,11,Yes,95.3,100.0,74.9,90.8
+Hindi,Adult (20-35),Postgraduate,Immersive,9,Yes,100.0,100.0,100.0,100.0
+Tamil,Adult (20-35),Secondary,Native,14,Yes,96.8,95.5,100.0,97.3
+English,Adult (20-35),Secondary,Native,1,Yes,73.7,87.0,75.3,78.8
+Bengali,Child (6-12),Graduate,Immersive,6,Yes,100.0,96.5,91.9,96.3
+Hindi,Teenager (13-19),Primary,School Only,14,Yes,71.5,69.6,86.3,75.3
+Kannada,Senior (36+),Graduate,Media + School,1,Yes,90.1,96.5,80.3,89.4
+Hindi,Senior (36+),Graduate,Media + School,3,Yes,100.0,79.4,100.0,92.8
+Kannada,Senior (36+),No Formal,Media + School,11,Yes,73.9,68.8,69.8,70.9
+Tamil,Child (6-12),Graduate,School Only,6,No,81.8,64.3,98.3,80.6
+English,Child (6-12),Postgraduate,Media + School,3,No,94.8,99.1,90.8,95.1
+Hindi,Adult (20-35),Postgraduate,Media + School,6,No,100.0,95.0,100.0,98.2
+Marathi,Senior (36+),No Formal,Immersive,6,Yes,53.1,71.7,65.3,63.3
+Bengali,Child (6-12),Primary,School Only,0,Yes,56.8,46.0,47.1,50.1
+Tamil,Adult (20-35),Primary,Native,5,No,76.9,56.5,67.8,67.0
+Hindi,Senior (36+),Graduate,Immersive,8,Yes,100.0,100.0,100.0,100.0
+Bengali,Teenager (13-19),Graduate,Immersive,1,No,76.0,97.6,98.0,90.2
+Hindi,Adult (20-35),Graduate,Native,13,Yes,100.0,100.0,100.0,100.0
+Kannada,Child (6-12),Primary,Immersive,2,No,56.0,63.7,67.5,62.1
+Hindi,Child (6-12),Secondary,School Only,9,No,74.3,62.1,70.8,69.0
+Marathi,Adult (20-35),Postgraduate,Media + School,4,No,100.0,95.4,88.0,94.8
+Hindi,Adult (20-35),Secondary,School Only,8,Yes,94.0,65.4,90.9,83.1
+Hindi,Child (6-12),Secondary,Native,3,No,80.5,66.9,80.8,75.8
+Marathi,Teenager (13-19),Primary,Native,0,Yes,71.0,83.8,71.0,75.5
+Tamil,Senior (36+),Secondary,Immersive,3,Yes,98.7,83.7,89.6,90.7
+Hindi,Teenager (13-19),No Formal,School Only,5,Yes,49.9,25.8,51.1,41.8
+Marathi,Adult (20-35),Graduate,School Only,4,Yes,100.0,82.0,97.6,93.0
+Bengali,Teenager (13-19),No Formal,Native,13,Yes,81.8,71.8,71.1,75.1
+Kannada,Child (6-12),Postgraduate,School Only,12,Yes,100.0,100.0,100.0,100.0
+Kannada,Adult (20-35),Graduate,Native,0,Yes,94.3,88.6,94.7,92.4
+Hindi,Senior (36+),Secondary,School Only,3,No,52.1,56.3,88.1,64.4
+Tamil,Child (6-12),Postgraduate,School Only,5,No,97.8,93.8,89.1,93.8
+Tamil,Child (6-12),Graduate,School Only,12,No,100.0,86.7,96.3,94.2
+Bengali,Senior (36+),Secondary,Native,14,Yes,100.0,94.0,100.0,97.9
+Hindi,Senior (36+),No Formal,Immersive,9,Yes,75.2,62.1,58.0,65.5
+Kannada,Teenager (13-19),Graduate,School Only,9,Yes,100.0,100.0,100.0,100.0
+Tamil,Adult (20-35),Secondary,Native,13,Yes,100.0,99.6,100.0,99.9
+Hindi,Senior (36+),No Formal,Native,3,No,45.2,65.4,55.7,55.4
+Tamil,Senior (36+),Postgraduate,School Only,14,Yes,100.0,94.9,91.8,95.8
+Marathi,Adult (20-35),Postgraduate,School Only,13,No,100.0,100.0,100.0,100.0
+Tamil,Senior (36+),Postgraduate,Immersive,8,Yes,100.0,96.5,100.0,98.8
+Kannada,Senior (36+),Postgraduate,Native,4,No,100.0,100.0,100.0,100.0
+English,Teenager (13-19),Primary,Native,7,Yes,88.1,78.1,86.0,84.0
+Bengali,Child (6-12),Graduate,Media + School,8,No,100.0,85.5,84.5,90.3
+Bengali,Child (6-12),Graduate,Native,9,Yes,100.0,100.0,100.0,100.0
+Kannada,Child (6-12),Primary,Immersive,4,No,70.4,60.6,74.5,68.2
+Tamil,Child (6-12),Secondary,Media + School,5,Yes,92.3,88.9,85.1,89.0
+Hindi,Senior (36+),Secondary,Media + School,0,No,72.1,70.3,60.9,68.1
+Tamil,Adult (20-35),Postgraduate,Media + School,10,No,100.0,95.9,97.0,97.7
+Kannada,Adult (20-35),No Formal,School Only,11,Yes,62.6,56.6,49.2,56.5
+Bengali,Teenager (13-19),Secondary,School Only,14,No,69.8,80.3,78.7,76.1
+Tamil,Teenager (13-19),No Formal,Native,6,Yes,77.4,82.9,80.5,80.3
+Bengali,Senior (36+),Graduate,Media + School,3,Yes,87.9,100.0,92.4,93.5
+Hindi,Adult (20-35),No Formal,Immersive,10,Yes,72.3,77.8,86.6,78.5
+Bengali,Adult (20-35),Graduate,School Only,1,No,69.7,82.2,88.4,79.7
+Bengali,Child (6-12),Primary,Immersive,4,No,70.4,47.1,77.0,64.2
+English,Senior (36+),Primary,Immersive,11,Yes,86.2,92.5,97.3,91.7
+English,Senior (36+),Postgraduate,School Only,2,Yes,85.2,91.4,100.0,91.8
+Marathi,Child (6-12),Secondary,School Only,5,No,70.9,70.2,60.2,67.4
+English,Senior (36+),Postgraduate,School Only,7,No,90.9,97.3,90.2,92.9
+Bengali,Senior (36+),Graduate,School Only,6,No,91.0,58.7,76.7,75.4
+Kannada,Teenager (13-19),Postgraduate,Media + School,2,Yes,100.0,98.4,100.0,99.4
+Bengali,Adult (20-35),No Formal,Media + School,7,Yes,61.7,49.5,52.6,54.7
+Kannada,Senior (36+),Graduate,Media + School,1,Yes,86.8,96.6,88.1,90.6
+Kannada,Teenager (13-19),Primary,Media + School,9,Yes,71.8,72.0,79.6,74.2
+English,Adult (20-35),Secondary,Native,8,Yes,98.3,100.0,100.0,99.4
+Tamil,Child (6-12),Graduate,Media + School,3,No,94.4,87.8,99.9,93.7
+Hindi,Teenager (13-19),Graduate,School Only,0,Yes,98.4,89.0,88.6,92.2
+English,Teenager (13-19),No Formal,Immersive,7,No,49.1,43.9,61.5,51.0
+English,Adult (20-35),Secondary,Media + School,6,No,85.6,63.9,89.9,79.3
+Tamil,Child (6-12),Primary,Native,10,Yes,72.6,89.0,93.4,84.6
+Hindi,Teenager (13-19),Graduate,School Only,12,No,83.4,100.0,89.0,90.9
+Bengali,Senior (36+),Graduate,Immersive,4,Yes,98.3,90.9,100.0,96.2
+Marathi,Senior (36+),No Formal,Immersive,9,No,47.7,59.0,60.8,55.6
+Marathi,Senior (36+),Postgraduate,Media + School,12,Yes,100.0,100.0,100.0,100.0
+Bengali,Child (6-12),Primary,Immersive,4,Yes,79.3,74.2,81.9,78.3
+English,Teenager (13-19),Secondary,Media + School,6,No,75.3,69.1,85.5,76.2
+Hindi,Senior (36+),Graduate,Media + School,4,Yes,100.0,100.0,95.0,98.5
+English,Child (6-12),Graduate,School Only,7,No,91.0,88.3,74.1,85.0
+Kannada,Senior (36+),Primary,School Only,10,Yes,72.1,61.6,82.8,71.6
+English,Adult (20-35),Postgraduate,Native,12,Yes,100.0,91.0,100.0,96.8
+English,Teenager (13-19),Graduate,School Only,5,Yes,91.9,81.3,100.0,90.6
+Bengali,Teenager (13-19),Primary,School Only,12,No,53.5,52.1,66.6,56.9
+Bengali,Child (6-12),No Formal,Media + School,4,No,52.5,38.3,46.9,45.8
+Bengali,Child (6-12),Postgraduate,School Only,8,Yes,100.0,99.0,100.0,99.6
+Marathi,Teenager (13-19),Secondary,Media + School,10,No,75.5,76.3,96.0,81.9
+Kannada,Senior (36+),Graduate,Media + School,1,Yes,93.1,98.0,85.2,92.4
+Bengali,Senior (36+),Primary,School Only,0,No,37.7,62.5,45.3,48.7
+Hindi,Adult (20-35),No Formal,Native,7,No,57.2,54.0,50.9,54.2
+Marathi,Senior (36+),Secondary,Native,11,Yes,100.0,100.0,100.0,100.0
+Tamil,Child (6-12),Primary,Immersive,2,Yes,75.8,82.0,73.7,77.3
+Hindi,Child (6-12),Primary,Immersive,13,Yes,82.3,84.0,86.1,84.0
+Hindi,Senior (36+),Secondary,School Only,10,Yes,81.1,88.6,71.9,81.0
+Bengali,Child (6-12),No Formal,Native,11,Yes,85.1,86.7,75.9,82.9
+Tamil,Teenager (13-19),No Formal,Media + School,11,No,58.5,65.2,61.6,61.8
+Tamil,Teenager (13-19),Postgraduate,Immersive,11,No,100.0,96.7,100.0,98.8
+Marathi,Senior (36+),Graduate,Media + School,6,Yes,100.0,100.0,100.0,100.0
+Tamil,Teenager (13-19),Secondary,Immersive,9,Yes,100.0,100.0,99.6,99.9
+Kannada,Teenager (13-19),Secondary,School Only,12,Yes,76.9,64.6,96.6,78.5
+Bengali,Adult (20-35),Secondary,Native,10,No,100.0,92.0,100.0,97.2
+Tamil,Adult (20-35),No Formal,Immersive,7,Yes,65.1,40.7,68.1,57.5
+Marathi,Teenager (13-19),Graduate,Native,14,Yes,100.0,97.7,100.0,99.2
+Kannada,Senior (36+),Postgraduate,Media + School,12,No,100.0,95.9,100.0,98.6
+English,Adult (20-35),Primary,School Only,12,No,70.6,69.0,81.8,73.4
+English,Child (6-12),Primary,Native,5,No,76.5,63.1,63.4,67.9
+Kannada,Child (6-12),Secondary,School Only,11,No,69.5,67.2,84.5,73.2
+Marathi,Child (6-12),Graduate,Native,9,Yes,100.0,93.2,97.6,96.9
+Kannada,Senior (36+),No Formal,Media + School,13,No,52.4,34.7,62.5,49.2
+Bengali,Teenager (13-19),Graduate,Media + School,8,No,96.7,98.0,82.8,93.0
+Bengali,Child (6-12),Graduate,School Only,6,Yes,91.6,86.2,100.0,92.2
+English,Senior (36+),No Formal,Media + School,14,Yes,67.2,56.6,71.4,64.8
+Tamil,Adult (20-35),Secondary,Immersive,9,Yes,100.0,76.5,100.0,91.8
+Marathi,Teenager (13-19),Graduate,Native,4,No,92.7,98.2,100.0,96.8
+English,Adult (20-35),Primary,Media + School,7,Yes,89.1,76.5,83.6,83.0
+Tamil,Senior (36+),No Formal,Immersive,14,No,51.4,59.7,57.5,56.1
+Tamil,Child (6-12),Postgraduate,School Only,1,No,81.7,77.6,85.8,81.5
+Bengali,Child (6-12),Secondary,Immersive,6,No,87.0,67.2,88.9,80.6
+Hindi,Senior (36+),No Formal,School Only,14,Yes,65.7,59.7,57.9,61.3
+Hindi,Child (6-12),Postgraduate,School Only,3,No,88.7,83.4,94.5,88.6
+Kannada,Teenager (13-19),Postgraduate,Native,8,Yes,100.0,100.0,100.0,100.0
+Bengali,Senior (36+),Graduate,Native,11,Yes,100.0,98.2,100.0,99.4
+Tamil,Adult (20-35),Graduate,Immersive,0,Yes,98.2,80.2,87.4,88.7
+Marathi,Senior (36+),Graduate,Native,6,No,100.0,98.5,99.7,99.4
+Hindi,Teenager (13-19),No Formal,Native,5,No,64.2,38.7,61.5,54.5
+Tamil,Teenager (13-19),No Formal,Native,7,No,67.5,67.6,53.8,63.4
+Hindi,Senior (36+),Secondary,Immersive,4,Yes,83.3,96.8,95.4,91.7
+Hindi,Senior (36+),Graduate,Media + School,14,No,100.0,99.7,100.0,99.9
+Hindi,Child (6-12),Postgraduate,Native,0,No,100.0,95.3,100.0,98.4
+Marathi,Teenager (13-19),Primary,Native,0,No,57.0,49.6,69.8,58.2
+Bengali,Senior (36+),Secondary,Immersive,8,No,89.9,67.2,96.6,84.0
+Marathi,Senior (36+),No Formal,Media + School,14,No,54.7,54.6,69.2,59.0
+English,Teenager (13-19),Secondary,Native,9,Yes,100.0,100.0,100.0,100.0
+Tamil,Senior (36+),Secondary,School Only,5,Yes,68.9,96.0,81.3,82.1
+Bengali,Child (6-12),Secondary,Immersive,9,Yes,100.0,95.4,95.5,97.0
+Bengali,Teenager (13-19),Secondary,Native,4,Yes,88.8,85.0,91.8,88.4
+Bengali,Child (6-12),Primary,Native,14,No,87.8,83.6,83.0,84.9
+Bengali,Child (6-12),Graduate,School Only,0,Yes,91.3,88.3,100.0,92.9
+Marathi,Child (6-12),Postgraduate,School Only,5,No,87.9,92.8,77.6,86.5
+Bengali,Child (6-12),Secondary,Immersive,5,Yes,99.3,94.1,78.7,91.3
+Kannada,Teenager (13-19),Secondary,Immersive,2,Yes,78.2,90.7,100.0,89.1
+Tamil,Child (6-12),Secondary,School Only,12,Yes,99.6,83.5,98.2,93.5
+Bengali,Child (6-12),Graduate,Immersive,7,No,100.0,94.6,100.0,98.1
+Tamil,Senior (36+),No Formal,School Only,13,No,44.7,53.5,42.9,47.2
+Kannada,Teenager (13-19),No Formal,Native,14,Yes,78.6,78.4,79.8,78.9
+Kannada,Teenager (13-19),Primary,School Only,0,No,51.5,43.5,53.9,49.4
+Tamil,Adult (20-35),No Formal,School Only,0,Yes,35.3,27.4,40.8,34.2
+Hindi,Teenager (13-19),Secondary,Media + School,5,Yes,79.5,90.8,89.9,86.6
+English,Teenager (13-19),Secondary,School Only,9,Yes,81.7,77.3,85.4,81.3
+Hindi,Adult (20-35),Secondary,School Only,12,No,68.6,85.6,66.3,73.9
+Hindi,Teenager (13-19),Primary,Media + School,0,Yes,77.6,63.3,80.3,73.4
+Marathi,Teenager (13-19),Secondary,Immersive,5,Yes,88.0,85.6,100.0,90.8
+Hindi,Teenager (13-19),No Formal,Media + School,0,Yes,54.7,56.3,56.8,55.9
+Bengali,Teenager (13-19),Graduate,Native,13,No,100.0,100.0,96.9,99.1
+Marathi,Adult (20-35),Graduate,Media + School,12,Yes,100.0,100.0,100.0,100.0
+Marathi,Teenager (13-19),Postgraduate,Native,5,No,100.0,97.8,100.0,99.2
+Kannada,Teenager (13-19),No Formal,Immersive,2,Yes,64.3,69.2,62.7,65.5
+Hindi,Adult (20-35),Secondary,Media + School,13,No,86.0,86.9,65.3,80.1
+Kannada,Senior (36+),Graduate,Media + School,13,Yes,100.0,96.6,100.0,98.8
+Tamil,Child (6-12),No Formal,Immersive,14,Yes,84.2,56.0,72.6,70.8
+English,Senior (36+),Graduate,Native,7,No,100.0,98.4,100.0,99.4
+Marathi,Adult (20-35),Secondary,Media + School,12,No,82.3,93.7,85.0,87.1
+Tamil,Child (6-12),Graduate,Native,14,Yes,100.0,92.6,100.0,97.4
+Tamil,Adult (20-35),Postgraduate,Media + School,5,No,95.6,100.0,100.0,98.5
+Bengali,Adult (20-35),Postgraduate,School Only,12,Yes,100.0,92.0,98.1,96.6
+English,Teenager (13-19),Graduate,Media + School,10,Yes,100.0,99.1,100.0,99.7
+Tamil,Child (6-12),No Formal,Immersive,12,Yes,55.6,53.7,76.5,61.2
+Tamil,Teenager (13-19),No Formal,Immersive,0,No,44.9,60.9,61.9,55.6
+English,Child (6-12),No Formal,Native,14,Yes,82.3,83.6,68.2,78.5
+English,Adult (20-35),Graduate,Media + School,4,No,86.8,89.4,95.8,90.4
+Tamil,Adult (20-35),No Formal,Native,7,Yes,80.8,73.3,73.2,75.9
+English,Senior (36+),Secondary,Native,2,No,86.4,100.0,73.9,87.4
+Tamil,Child (6-12),Postgraduate,School Only,11,No,100.0,87.8,99.6,95.6
+Tamil,Teenager (13-19),Secondary,School Only,5,Yes,75.8,70.4,83.4,76.2
+Bengali,Senior (36+),No Formal,Immersive,4,No,58.5,45.6,64.5,55.8
+Hindi,Senior (36+),Secondary,Native,5,Yes,100.0,85.3,100.0,94.9
+Tamil,Senior (36+),No Formal,Immersive,9,Yes,79.0,63.3,54.2,66.1
+Kannada,Teenager (13-19),Graduate,Media + School,0,Yes,84.3,100.0,99.3,94.3
+Marathi,Senior (36+),Secondary,Native,6,Yes,97.0,93.1,100.0,96.5
+Hindi,Teenager (13-19),Graduate,Native,8,Yes,100.0,100.0,100.0,100.0
+Hindi,Senior (36+),Graduate,Media + School,1,No,88.4,82.8,80.1,84.0
+Hindi,Teenager (13-19),Primary,Media + School,9,Yes,82.0,90.2,72.9,82.1
+Bengali,Adult (20-35),No Formal,Immersive,14,No,59.3,71.5,61.6,64.3
+Tamil,Adult (20-35),Postgraduate,Immersive,4,No,100.0,89.7,100.0,96.4
+Bengali,Adult (20-35),No Formal,Media + School,9,Yes,45.3,40.4,68.9,50.7
+Tamil,Adult (20-35),Postgraduate,Immersive,3,No,100.0,96.6,100.0,98.8
+Bengali,Adult (20-35),No Formal,Media + School,5,Yes,51.4,69.9,73.5,64.5
+Bengali,Senior (36+),Graduate,Native,5,No,100.0,97.8,99.1,99.0
+Marathi,Senior (36+),Secondary,Native,10,No,92.5,81.1,77.6,84.0
+Kannada,Senior (36+),Secondary,School Only,1,No,70.7,46.6,62.7,59.9
+Bengali,Teenager (13-19),Primary,Native,1,Yes,53.8,79.9,71.1,68.1
+Marathi,Teenager (13-19),Postgraduate,Media + School,3,No,97.4,98.8,89.8,95.6
+English,Teenager (13-19),Postgraduate,Immersive,0,Yes,100.0,98.0,94.5,97.6
+Kannada,Teenager (13-19),Postgraduate,School Only,8,No,93.4,96.8,89.4,93.4
+Bengali,Adult (20-35),Graduate,Immersive,13,No,100.0,100.0,93.6,98.1
+Hindi,Adult (20-35),Postgraduate,Media + School,13,No,100.0,100.0,100.0,100.0
+English,Adult (20-35),Secondary,Native,12,No,100.0,83.8,89.3,91.1
+English,Child (6-12),Graduate,School Only,6,Yes,96.9,93.6,100.0,96.7
+Marathi,Senior (36+),No Formal,Media + School,11,Yes,74.6,72.7,84.3,76.8
+English,Teenager (13-19),Postgraduate,School Only,6,No,88.7,83.4,95.1,88.8
+Kannada,Teenager (13-19),Postgraduate,School Only,14,No,100.0,90.1,100.0,96.5
+Bengali,Adult (20-35),No Formal,Native,2,Yes,71.8,52.6,68.6,64.1
+Bengali,Teenager (13-19),Postgraduate,Media + School,14,Yes,100.0,100.0,100.0,100.0
+Hindi,Teenager (13-19),No Formal,Immersive,10,Yes,57.6,40.8,72.2,56.1
+Marathi,Senior (36+),Graduate,School Only,14,Yes,100.0,97.7,100.0,99.2
+Hindi,Adult (20-35),Secondary,School Only,11,No,79.6,63.7,59.7,68.1
+English,Senior (36+),No Formal,Immersive,2,No,54.7,49.5,42.6,49.2
+Hindi,Child (6-12),Primary,Media + School,0,Yes,57.6,71.7,70.8,66.5
+Kannada,Child (6-12),No Formal,School Only,2,Yes,19.7,44.8,30.8,31.8
+Bengali,Child (6-12),Postgraduate,School Only,2,Yes,100.0,83.7,99.8,94.2
+English,Adult (20-35),Graduate,School Only,3,Yes,79.7,79.2,93.6,83.7
+Hindi,Teenager (13-19),Graduate,Media + School,3,Yes,81.4,98.2,99.1,92.6
+Marathi,Adult (20-35),No Formal,Media + School,2,Yes,28.3,55.8,53.8,45.6
+Kannada,Adult (20-35),Secondary,Immersive,9,No,95.0,76.8,98.3,89.6
+Kannada,Teenager (13-19),Primary,Media + School,11,No,70.5,76.5,58.6,69.0
+Hindi,Senior (36+),Graduate,Media + School,7,No,91.7,79.6,100.0,90.0
+Bengali,Child (6-12),Postgraduate,Native,7,Yes,100.0,100.0,100.0,100.0
+Hindi,Senior (36+),Postgraduate,Immersive,12,Yes,100.0,100.0,100.0,100.0
+English,Child (6-12),Secondary,School Only,12,Yes,100.0,76.2,84.5,87.0
+Hindi,Adult (20-35),Graduate,Media + School,0,No,71.9,90.0,77.0,79.8
+Kannada,Child (6-12),No Formal,School Only,6,Yes,48.7,63.3,60.4,57.3
+Hindi,Adult (20-35),Postgraduate,School Only,10,Yes,97.1,99.3,100.0,98.7
+Bengali,Senior (36+),Secondary,Native,1,No,79.7,77.2,73.1,76.8
+Marathi,Adult (20-35),Graduate,Media + School,0,Yes,91.0,100.0,98.5,96.4
+Tamil,Senior (36+),Graduate,Immersive,2,No,98.0,95.8,92.5,95.6
+Hindi,Teenager (13-19),Graduate,Media + School,3,No,87.9,83.9,94.3,88.4
+Bengali,Teenager (13-19),Graduate,School Only,12,Yes,100.0,100.0,100.0,100.0
+Bengali,Teenager (13-19),Graduate,Immersive,5,No,100.0,90.3,100.0,96.6
+Marathi,Adult (20-35),Postgraduate,Media + School,9,Yes,100.0,100.0,100.0,100.0
+Kannada,Teenager (13-19),Secondary,School Only,13,No,77.0,69.2,93.7,79.3
+Bengali,Child (6-12),Graduate,School Only,4,Yes,83.5,91.7,87.8,87.7
+Bengali,Senior (36+),Primary,Native,14,No,88.0,74.6,100.0,86.9
+Bengali,Senior (36+),Primary,Native,14,Yes,89.6,78.2,100.0,88.7
+Bengali,Child (6-12),Secondary,Native,13,No,100.0,96.7,100.0,98.8
+English,Adult (20-35),No Formal,School Only,3,No,32.2,27.3,40.4,32.9
+English,Adult (20-35),No Formal,Media + School,7,No,44.0,59.3,48.3,50.6
+Kannada,Senior (36+),No Formal,Native,10,Yes,71.2,75.4,72.2,73.0
+Hindi,Teenager (13-19),Primary,Media + School,11,Yes,85.2,77.4,86.3,82.8
+Bengali,Adult (20-35),No Formal,Native,13,No,68.2,59.0,54.7,60.9
+Marathi,Adult (20-35),Postgraduate,Immersive,3,Yes,100.0,100.0,100.0,100.0
+Hindi,Child (6-12),Graduate,Immersive,12,No,100.0,100.0,100.0,100.0
+Marathi,Child (6-12),Primary,Native,9,Yes,81.7,92.2,93.7,89.0
+Hindi,Teenager (13-19),Secondary,School Only,11,No,76.8,76.2,68.0,73.9
+Kannada,Adult (20-35),Secondary,Native,12,Yes,100.0,98.9,98.3,99.1
+Bengali,Adult (20-35),Graduate,Native,1,No,83.4,100.0,99.2,93.9
+Bengali,Child (6-12),Primary,School Only,14,No,69.8,43.2,44.8,53.0
+Tamil,Adult (20-35),No Formal,Immersive,2,No,39.6,41.4,52.6,44.1
+Marathi,Senior (36+),No Formal,Media + School,5,No,52.1,33.9,50.6,45.3
+Hindi,Child (6-12),Postgraduate,Native,7,Yes,100.0,95.8,100.0,98.5
+Hindi,Teenager (13-19),Postgraduate,School Only,7,No,100.0,90.5,91.9,94.2
+English,Child (6-12),No Formal,Native,14,Yes,89.8,78.9,88.7,85.7
+Tamil,Adult (20-35),Secondary,School Only,10,Yes,91.9,90.0,88.7,90.3
+English,Teenager (13-19),Secondary,Media + School,14,No,91.0,94.3,92.7,92.7
+English,Child (6-12),Postgraduate,Media + School,8,Yes,100.0,100.0,100.0,100.0
+English,Senior (36+),Graduate,Immersive,6,Yes,100.0,96.6,98.1,98.2
+Marathi,Senior (36+),No Formal,School Only,12,Yes,69.8,48.5,79.4,65.2
+Marathi,Child (6-12),Postgraduate,School Only,1,No,80.9,82.1,72.3,78.7
+Kannada,Senior (36+),Postgraduate,Immersive,7,Yes,100.0,91.3,100.0,97.0
+Kannada,Senior (36+),No Formal,Immersive,6,Yes,69.3,50.7,54.7,58.4
+English,Senior (36+),No Formal,School Only,7,No,34.1,53.5,46.7,44.7
+Tamil,Teenager (13-19),Secondary,Immersive,11,No,83.9,68.0,90.2,80.2
+Hindi,Senior (36+),Graduate,Media + School,2,Yes,84.5,98.2,99.3,93.7
+Marathi,Senior (36+),Graduate,Native,6,No,100.0,100.0,100.0,100.0
+Tamil,Senior (36+),No Formal,Media + School,9,Yes,60.8,66.5,65.5,64.2
+Bengali,Teenager (13-19),Primary,Immersive,12,Yes,89.9,76.3,83.2,83.1
+Marathi,Child (6-12),Postgraduate,School Only,8,Yes,100.0,100.0,94.7,98.4
+Marathi,Adult (20-35),Postgraduate,School Only,2,No,92.2,90.8,89.6,90.9
+Kannada,Senior (36+),No Formal,Media + School,13,Yes,66.0,55.0,67.2,62.5
+Hindi,Child (6-12),Primary,School Only,9,No,56.9,58.5,64.2,59.6
+Hindi,Senior (36+),Secondary,Immersive,5,No,86.6,85.1,95.5,88.7
+Bengali,Teenager (13-19),No Formal,Media + School,1,Yes,59.7,61.4,52.9,58.3
+Bengali,Child (6-12),No Formal,School Only,1,No,32.5,32.6,44.3,36.1
+Marathi,Teenager (13-19),Postgraduate,Native,4,No,100.0,93.2,96.0,96.4
+English,Senior (36+),No Formal,Native,4,No,48.1,59.6,48.4,52.2
+Kannada,Senior (36+),No Formal,Immersive,12,No,51.4,41.2,74.5,54.8
+Kannada,Teenager (13-19),No Formal,School Only,6,No,44.3,17.8,34.1,32.0
+Marathi,Adult (20-35),Postgraduate,Immersive,11,Yes,100.0,94.5,100.0,98.1
+Tamil,Teenager (13-19),Secondary,Media + School,1,No,74.1,51.0,69.5,64.6
+English,Senior (36+),Secondary,Native,10,Yes,100.0,94.6,100.0,98.1
+Marathi,Teenager (13-19),No Formal,Media + School,13,Yes,78.8,66.3,73.1,72.7
+English,Adult (20-35),Postgraduate,School Only,12,Yes,100.0,89.0,100.0,96.2
+English,Teenager (13-19),Secondary,Immersive,6,Yes,100.0,97.5,92.7,96.9
+English,Adult (20-35),Secondary,Immersive,4,Yes,90.7,96.8,77.5,88.9
+Marathi,Adult (20-35),Secondary,Immersive,13,Yes,99.6,99.7,100.0,99.8
+Kannada,Teenager (13-19),Postgraduate,Media + School,5,No,100.0,95.3,100.0,98.4
+Kannada,Teenager (13-19),Postgraduate,Native,7,No,100.0,98.4,100.0,99.4
+English,Child (6-12),No Formal,Media + School,9,No,54.4,44.9,49.5,49.6
+Tamil,Senior (36+),Graduate,Media + School,12,Yes,100.0,98.3,84.3,94.7
+Hindi,Adult (20-35),Secondary,School Only,13,No,79.2,87.0,69.8,79.1
+Marathi,Child (6-12),Graduate,School Only,11,No,100.0,97.9,100.0,99.3
+Hindi,Teenager (13-19),Postgraduate,School Only,3,No,99.0,85.1,96.7,93.4
+Tamil,Senior (36+),Postgraduate,Native,12,Yes,100.0,100.0,100.0,100.0
+Marathi,Child (6-12),Postgraduate,Native,6,No,100.0,91.5,100.0,97.0
+English,Adult (20-35),Graduate,School Only,5,Yes,100.0,91.6,88.6,93.6
+Kannada,Child (6-12),Postgraduate,School Only,9,No,100.0,89.2,90.3,93.3
+Hindi,Adult (20-35),No Formal,Native,1,Yes,61.7,37.8,76.1,57.7
+Bengali,Teenager (13-19),Postgraduate,Immersive,14,Yes,100.0,98.3,99.4,99.2
+Bengali,Senior (36+),Primary,Native,7,Yes,84.9,83.4,97.1,88.0
+Tamil,Senior (36+),Graduate,Native,9,No,83.1,92.6,97.3,90.7
+English,Senior (36+),Primary,Native,8,No,78.7,71.4,82.7,77.3
+Hindi,Teenager (13-19),Postgraduate,School Only,4,Yes,97.1,100.0,100.0,99.0
+English,Adult (20-35),No Formal,Immersive,9,No,71.2,54.5,53.5,60.0
+Hindi,Teenager (13-19),Secondary,Native,3,Yes,94.7,100.0,100.0,98.1
+Tamil,Senior (36+),Postgraduate,School Only,5,Yes,93.0,99.2,96.9,96.3
+Tamil,Teenager (13-19),No Formal,Media + School,7,No,48.1,48.3,50.2,48.8
+Bengali,Teenager (13-19),Graduate,Media + School,10,No,89.6,91.2,100.0,93.3
+English,Teenager (13-19),Primary,Native,14,No,89.8,87.6,71.2,83.4
+Marathi,Adult (20-35),Primary,Media + School,2,Yes,68.3,66.2,60.3,65.2
+Bengali,Child (6-12),Primary,Immersive,9,Yes,91.2,84.8,96.3,90.5
+English,Child (6-12),Graduate,Media + School,10,No,91.7,91.5,100.0,94.1
+Bengali,Teenager (13-19),No Formal,Media + School,10,Yes,63.3,65.0,66.9,65.0
+Marathi,Child (6-12),Graduate,Immersive,0,No,79.1,97.7,90.9,89.1
+Kannada,Child (6-12),Primary,Native,3,Yes,85.1,100.0,87.2,90.9
+Kannada,Teenager (13-19),Postgraduate,Native,14,No,100.0,97.8,100.0,99.2
+Kannada,Teenager (13-19),Secondary,Immersive,3,No,83.5,84.6,71.9,80.4
+Kannada,Senior (36+),Graduate,Immersive,0,Yes,100.0,100.0,85.9,95.8
+Hindi,Child (6-12),Graduate,Immersive,8,No,100.0,89.1,99.1,95.9
+Kannada,Adult (20-35),No Formal,Media + School,2,No,53.8,30.7,31.0,38.9
+Marathi,Teenager (13-19),No Formal,Immersive,4,Yes,58.7,67.9,58.2,61.8
+Tamil,Senior (36+),Graduate,School Only,5,No,83.6,87.2,100.0,89.8
+Tamil,Adult (20-35),Primary,Media + School,7,Yes,64.8,63.6,91.7,72.4
+Hindi,Child (6-12),Secondary,Native,5,No,80.6,71.1,75.2,75.7
+Kannada,Senior (36+),No Formal,Native,2,Yes,63.8,69.2,65.2,66.1
+Kannada,Teenager (13-19),Primary,Native,5,No,81.3,81.8,63.6,76.2
+Kannada,Adult (20-35),Postgraduate,Media + School,0,No,90.9,100.0,91.1,94.1
+Bengali,Teenager (13-19),No Formal,School Only,3,No,32.6,33.1,41.2,35.4
+English,Child (6-12),Primary,Immersive,5,No,64.2,61.1,68.0,64.3
+Bengali,Adult (20-35),Primary,Immersive,6,Yes,74.7,82.7,75.9,77.9
+English,Child (6-12),Secondary,Native,10,Yes,100.0,96.4,99.1,98.5
+Kannada,Child (6-12),Secondary,Native,12,Yes,96.0,100.0,100.0,98.6
+Kannada,Senior (36+),Postgraduate,Media + School,10,Yes,100.0,98.1,100.0,99.3
+Bengali,Teenager (13-19),Primary,School Only,9,Yes,63.2,78.7,88.3,76.2
+Bengali,Adult (20-35),Primary,Immersive,2,Yes,78.8,80.3,83.7,80.8
+English,Child (6-12),Secondary,Media + School,8,Yes,79.8,81.7,90.8,83.8
+Tamil,Child (6-12),No Formal,Immersive,11,No,66.9,66.1,65.2,66.1
+English,Adult (20-35),No Formal,Native,11,No,71.9,62.5,72.8,68.9
+Bengali,Child (6-12),Graduate,Immersive,6,No,100.0,100.0,100.0,100.0
+Marathi,Senior (36+),Secondary,School Only,13,No,71.5,91.8,75.6,79.8
+Bengali,Senior (36+),Graduate,School Only,0,Yes,87.0,66.1,93.8,81.7
+Marathi,Senior (36+),Secondary,Native,1,Yes,82.0,89.1,96.9,89.0
+Hindi,Senior (36+),Postgraduate,School Only,0,Yes,93.0,87.7,94.8,91.7
+Bengali,Child (6-12),Primary,School Only,10,No,68.2,63.3,64.4,65.3
+Hindi,Adult (20-35),Postgraduate,Media + School,8,Yes,100.0,91.8,100.0,97.1
+Tamil,Adult (20-35),Secondary,Immersive,8,No,87.1,82.0,83.1,84.1
+English,Adult (20-35),Primary,Native,6,Yes,76.2,90.1,84.8,83.6
+Marathi,Adult (20-35),No Formal,Native,9,Yes,78.7,82.0,73.4,78.3
+English,Teenager (13-19),No Formal,Native,2,Yes,63.2,57.1,61.3,60.5
+Hindi,Adult (20-35),Graduate,Native,12,Yes,100.0,89.6,100.0,96.4
+Marathi,Teenager (13-19),Secondary,Native,14,No,100.0,81.4,99.8,93.4
+English,Teenager (13-19),Secondary,School Only,4,No,65.8,78.0,63.2,69.3
+Bengali,Senior (36+),No Formal,Media + School,14,Yes,78.6,89.0,66.8,78.7
+Kannada,Teenager (13-19),Postgraduate,Native,3,No,100.0,100.0,100.0,100.0
+Hindi,Child (6-12),Primary,Media + School,6,Yes,46.6,68.9,84.7,65.8
+English,Teenager (13-19),Postgraduate,Media + School,13,Yes,100.0,99.5,100.0,99.8
+Hindi,Senior (36+),Postgraduate,School Only,8,Yes,100.0,99.9,95.5,98.6
+Hindi,Teenager (13-19),No Formal,Native,11,Yes,63.0,59.8,98.5,72.5
+Marathi,Child (6-12),No Formal,School Only,1,No,23.7,8.8,51.5,26.8
+Marathi,Child (6-12),No Formal,Native,12,Yes,100.0,67.3,88.6,85.1
+Kannada,Child (6-12),Graduate,School Only,7,Yes,93.1,100.0,97.5,96.8
+Bengali,Senior (36+),Postgraduate,Media + School,14,No,100.0,100.0,100.0,100.0
+Hindi,Senior (36+),Secondary,Native,8,Yes,96.8,99.8,99.8,98.8
+English,Adult (20-35),Primary,Immersive,9,No,56.8,61.3,75.6,64.0
+Tamil,Senior (36+),Graduate,Media + School,13,Yes,100.0,100.0,100.0,100.0
+Hindi,Child (6-12),Secondary,Immersive,9,Yes,96.4,92.9,94.0,94.5
+Hindi,Child (6-12),Postgraduate,Media + School,8,Yes,100.0,100.0,99.9,100.0
+Kannada,Senior (36+),No Formal,School Only,13,Yes,58.6,54.6,54.4,55.9
+Bengali,Teenager (13-19),Postgraduate,Native,9,Yes,100.0,91.5,100.0,97.0
+Tamil,Senior (36+),Primary,Media + School,13,Yes,81.3,80.8,74.8,79.2
+Marathi,Senior (36+),Graduate,School Only,6,No,73.9,86.2,87.9,82.4
+Marathi,Child (6-12),Graduate,Native,14,Yes,100.0,95.4,100.0,98.4
+English,Adult (20-35),Primary,Native,8,No,61.4,72.8,87.6,73.2
+Tamil,Child (6-12),Secondary,Media + School,8,No,63.6,67.0,61.4,64.1
+Marathi,Adult (20-35),Secondary,Native,13,Yes,100.0,79.8,100.0,92.9
+English,Child (6-12),Graduate,Media + School,2,No,90.1,92.7,100.0,94.0
+Bengali,Senior (36+),Graduate,Native,3,Yes,100.0,95.6,92.3,96.1
+English,Child (6-12),No Formal,Immersive,1,No,35.3,62.5,27.1,42.4
+Marathi,Child (6-12),Secondary,School Only,9,Yes,77.8,96.1,92.7,88.7
+Kannada,Child (6-12),Primary,Immersive,2,No,60.9,62.8,74.3,65.6
+Kannada,Senior (36+),Secondary,Media + School,10,No,70.2,70.7,73.1,71.2
+Kannada,Senior (36+),No Formal,Immersive,10,Yes,64.1,75.3,79.2,72.6
+Marathi,Senior (36+),Graduate,Media + School,4,No,94.2,100.0,88.9,94.6
+Kannada,Senior (36+),Graduate,Native,4,Yes,100.0,100.0,100.0,100.0
+Tamil,Adult (20-35),No Formal,Native,5,Yes,64.1,68.0,57.2,63.4
+Bengali,Adult (20-35),Primary,Media + School,12,Yes,87.1,90.1,88.1,88.4
+English,Teenager (13-19),Graduate,Immersive,6,Yes,93.7,98.6,100.0,97.3
+English,Senior (36+),Postgraduate,Native,6,Yes,100.0,98.6,100.0,99.5
+Marathi,Adult (20-35),Graduate,School Only,0,No,68.6,81.5,74.1,74.8
+Kannada,Child (6-12),Postgraduate,Native,13,No,100.0,99.2,100.0,99.7
+Kannada,Senior (36+),No Formal,School Only,1,No,29.5,25.1,44.9,32.6
+Hindi,Teenager (13-19),No Formal,Immersive,11,Yes,82.1,78.7,83.4,81.3
+Bengali,Teenager (13-19),Graduate,School Only,8,No,80.0,99.3,97.6,92.0
+Tamil,Teenager (13-19),Secondary,School Only,9,No,78.5,71.8,57.8,69.9
+English,Child (6-12),Postgraduate,School Only,1,No,84.3,88.8,82.9,85.5
+Hindi,Adult (20-35),Primary,School Only,5,No,51.2,61.0,61.2,57.6
+Hindi,Child (6-12),Graduate,Native,10,No,100.0,94.6,100.0,98.1
+Marathi,Senior (36+),Primary,School Only,10,Yes,63.2,40.9,59.4,54.3
+English,Teenager (13-19),Graduate,Native,0,Yes,100.0,100.0,95.5,98.6
+Marathi,Child (6-12),Secondary,School Only,2,No,62.5,62.1,78.6,67.2
+Tamil,Child (6-12),Secondary,Media + School,1,Yes,81.4,71.9,78.8,77.3
+Hindi,Adult (20-35),Secondary,Immersive,2,Yes,88.7,90.5,100.0,92.7
+Hindi,Adult (20-35),Secondary,School Only,4,No,72.4,68.1,48.8,63.8
+Bengali,Teenager (13-19),No Formal,Media + School,10,No,60.4,72.6,63.8,65.7
+Tamil,Child (6-12),No Formal,School Only,9,Yes,45.1,52.3,49.2,48.8
+Hindi,Child (6-12),Postgraduate,School Only,5,No,99.5,100.0,91.4,97.2
+Tamil,Adult (20-35),Primary,School Only,8,Yes,57.5,50.3,75.0,60.2
+English,Child (6-12),Graduate,Media + School,11,Yes,100.0,90.6,98.3,96.2
+Kannada,Child (6-12),Graduate,Immersive,10,No,100.0,87.1,100.0,95.5
+Hindi,Child (6-12),No Formal,Media + School,14,Yes,53.7,87.8,84.5,74.9
+Bengali,Adult (20-35),Graduate,Immersive,14,Yes,100.0,100.0,100.0,100.0
+English,Teenager (13-19),No Formal,School Only,9,Yes,49.8,48.8,63.3,53.5
+Tamil,Senior (36+),Postgraduate,Native,11,No,100.0,90.2,100.0,96.6
+Marathi,Teenager (13-19),Primary,School Only,11,No,72.3,59.3,69.5,66.9
+English,Senior (36+),Postgraduate,Immersive,12,No,100.0,100.0,100.0,100.0
+Hindi,Child (6-12),Secondary,Media + School,3,No,66.0,53.3,86.8,67.8
+Tamil,Teenager (13-19),Secondary,School Only,6,Yes,79.6,82.5,97.0,85.8
+Kannada,Senior (36+),Secondary,Media + School,5,No,81.0,73.3,78.9,77.7
+English,Adult (20-35),Postgraduate,Media + School,1,No,93.4,90.5,83.4,89.4
+Hindi,Adult (20-35),Graduate,Media + School,9,No,100.0,77.7,100.0,92.2
+Bengali,Teenager (13-19),Primary,School Only,10,No,64.2,56.3,63.8,61.3
+Marathi,Teenager (13-19),Secondary,Media + School,10,Yes,75.6,79.5,77.2,77.4
+Tamil,Child (6-12),Secondary,Media + School,10,Yes,88.8,87.6,91.7,89.2
+English,Teenager (13-19),Secondary,School Only,14,Yes,86.5,86.5,100.0,90.6
+English,Child (6-12),Primary,Media + School,14,No,77.8,79.7,76.7,78.1
+Kannada,Child (6-12),Secondary,School Only,7,No,49.5,64.9,72.2,61.7
+Kannada,Adult (20-35),Primary,Immersive,6,Yes,99.4,85.7,76.1,87.6
+Bengali,Adult (20-35),Secondary,Immersive,14,No,100.0,93.0,100.0,97.6
+Marathi,Senior (36+),Postgraduate,Immersive,14,No,100.0,100.0,100.0,100.0
+Bengali,Adult (20-35),Postgraduate,Media + School,6,Yes,100.0,100.0,100.0,100.0
+Hindi,Adult (20-35),Primary,Native,13,Yes,100.0,93.2,85.6,93.3
+Hindi,Teenager (13-19),Postgraduate,Native,14,No,100.0,88.9,100.0,96.1
+Bengali,Adult (20-35),Primary,Media + School,7,No,71.1,57.6,54.6,61.4
+Marathi,Senior (36+),Postgraduate,Native,11,No,100.0,85.7,94.4,93.3
+Bengali,Teenager (13-19),Postgraduate,School Only,11,Yes,100.0,97.9,100.0,99.3
+Marathi,Senior (36+),Primary,Native,12,Yes,89.2,87.3,100.0,91.8
+Marathi,Adult (20-35),Graduate,Media + School,13,Yes,100.0,100.0,100.0,100.0
+Tamil,Senior (36+),Postgraduate,Media + School,10,Yes,100.0,97.6,100.0,99.2
+Marathi,Teenager (13-19),Secondary,School Only,0,No,49.2,63.6,62.6,58.3
+Kannada,Child (6-12),Graduate,Immersive,14,Yes,100.0,96.8,96.3,97.8
+Marathi,Senior (36+),Primary,Media + School,12,Yes,67.5,87.4,94.7,82.6
+Marathi,Senior (36+),Graduate,School Only,0,No,76.5,88.0,83.5,82.6
+Marathi,Teenager (13-19),No Formal,Native,7,No,60.2,50.4,51.8,54.2
+Hindi,Teenager (13-19),No Formal,Native,3,No,55.7,48.0,54.1,52.5
+Kannada,Senior (36+),Postgraduate,School Only,4,Yes,96.8,86.0,95.2,92.5
+Kannada,Adult (20-35),Postgraduate,School Only,7,No,100.0,98.2,100.0,99.4
+Bengali,Senior (36+),Secondary,Media + School,4,No,84.9,87.3,82.8,85.1
+Tamil,Teenager (13-19),Graduate,Native,9,Yes,100.0,92.8,94.7,95.9
+Marathi,Child (6-12),No Formal,School Only,3,Yes,46.4,49.5,62.7,52.4
+English,Child (6-12),Postgraduate,Native,11,No,100.0,99.1,96.2,98.5
+Tamil,Adult (20-35),Graduate,School Only,5,Yes,84.4,90.4,70.0,82.2
+Tamil,Senior (36+),Postgraduate,Native,12,No,100.0,100.0,100.0,100.0
+Kannada,Child (6-12),Postgraduate,Immersive,14,No,100.0,100.0,100.0,100.0
+Tamil,Senior (36+),No Formal,Media + School,11,Yes,59.0,51.2,60.8,56.8
+Marathi,Teenager (13-19),No Formal,Native,4,No,63.7,51.3,71.4,61.7
+Marathi,Child (6-12),Postgraduate,Immersive,13,Yes,100.0,96.3,99.0,98.4
+Hindi,Adult (20-35),Primary,Native,6,Yes,95.0,100.0,76.9,91.3
+Marathi,Teenager (13-19),Postgraduate,Native,13,Yes,100.0,90.8,100.0,96.8
+Marathi,Adult (20-35),Postgraduate,Immersive,9,No,100.0,100.0,100.0,100.0
+Kannada,Teenager (13-19),Secondary,Native,6,Yes,100.0,97.2,100.0,99.0
+Marathi,Child (6-12),Secondary,Native,12,Yes,100.0,100.0,100.0,100.0
+Hindi,Adult (20-35),Secondary,Media + School,3,No,66.3,53.9,74.0,64.3
+English,Adult (20-35),Primary,Immersive,11,No,89.4,60.9,85.7,78.3
+Kannada,Teenager (13-19),Primary,Immersive,12,No,79.8,87.9,68.2,79.2
+English,Adult (20-35),Postgraduate,School Only,4,No,96.1,94.7,100.0,96.8
+Kannada,Teenager (13-19),Secondary,Native,12,Yes,100.0,96.8,93.4,96.9
+Bengali,Teenager (13-19),Primary,Media + School,2,Yes,56.2,64.3,66.0,62.0
+Tamil,Teenager (13-19),No Formal,Native,14,Yes,76.4,86.4,71.4,78.4
+Bengali,Teenager (13-19),Postgraduate,Native,3,No,100.0,98.9,96.1,98.4
+Marathi,Child (6-12),Graduate,School Only,14,No,87.5,94.4,95.4,92.3
+English,Teenager (13-19),Postgraduate,Native,13,Yes,100.0,91.0,100.0,96.8
+Marathi,Senior (36+),Graduate,Media + School,3,No,74.0,85.9,79.2,79.7
+Tamil,Adult (20-35),Secondary,Media + School,2,No,62.0,77.4,53.5,64.8
+Kannada,Senior (36+),Graduate,School Only,12,Yes,100.0,91.9,95.2,95.7
+Tamil,Child (6-12),Secondary,Native,9,Yes,100.0,94.6,100.0,98.1
+Hindi,Senior (36+),No Formal,Media + School,4,No,40.9,53.4,37.1,44.1
+Tamil,Adult (20-35),Graduate,Native,4,No,92.9,100.0,100.0,97.5
+Hindi,Senior (36+),Postgraduate,Native,10,No,100.0,100.0,100.0,100.0
+Tamil,Child (6-12),Secondary,Native,6,Yes,96.0,82.7,85.8,88.3
+Hindi,Teenager (13-19),Postgraduate,School Only,3,Yes,100.0,89.5,97.6,95.6
+English,Senior (36+),Primary,Native,12,Yes,100.0,81.1,83.9,88.6
+Marathi,Child (6-12),Secondary,Media + School,3,Yes,78.5,86.7,92.5,85.6
+Marathi,Child (6-12),Graduate,Native,8,Yes,100.0,99.2,99.3,99.5
+Bengali,Adult (20-35),Secondary,Media + School,5,No,77.6,54.2,89.8,73.1
+Marathi,Adult (20-35),Postgraduate,Native,14,No,100.0,94.7,100.0,98.1
+Kannada,Senior (36+),No Formal,Media + School,3,No,38.4,51.8,47.2,45.7
+Tamil,Teenager (13-19),Secondary,Media + School,1,Yes,90.1,82.0,65.7,79.9
+Bengali,Child (6-12),Graduate,Native,5,Yes,100.0,100.0,100.0,100.0
+Kannada,Senior (36+),Primary,Native,1,Yes,77.8,66.7,68.2,71.0
+Kannada,Child (6-12),No Formal,Media + School,4,No,33.8,43.4,66.6,47.0
+Hindi,Child (6-12),Primary,Immersive,5,Yes,79.2,81.9,87.8,82.7
+Marathi,Teenager (13-19),Secondary,School Only,3,Yes,83.0,66.4,71.0,73.6
+English,Teenager (13-19),Postgraduate,Immersive,13,No,100.0,95.0,100.0,98.2
+English,Senior (36+),Postgraduate,Immersive,12,Yes,100.0,96.0,100.0,98.6
+Bengali,Teenager (13-19),Graduate,Native,2,No,100.0,96.0,91.0,95.9
+English,Teenager (13-19),Postgraduate,School Only,6,Yes,100.0,100.0,100.0,100.0
+Tamil,Senior (36+),No Formal,Immersive,1,Yes,58.9,50.9,72.0,60.0
+English,Teenager (13-19),Postgraduate,Native,12,No,100.0,96.4,96.5,97.7
+Bengali,Adult (20-35),Graduate,Immersive,10,No,100.0,93.8,100.0,97.8
+English,Child (6-12),Secondary,Immersive,13,No,98.1,97.6,89.2,95.3
+Tamil,Child (6-12),Secondary,Native,5,No,83.5,76.8,99.0,85.8
+Hindi,Child (6-12),Postgraduate,Native,12,No,100.0,100.0,100.0,100.0
+Bengali,Child (6-12),Primary,Native,3,No,71.4,77.9,80.9,76.5
+Hindi,Senior (36+),Secondary,School Only,5,Yes,67.2,71.7,92.7,76.4
+Hindi,Child (6-12),Postgraduate,Immersive,3,Yes,100.0,95.1,100.0,98.3
+Hindi,Child (6-12),Graduate,Native,3,No,100.0,97.5,100.0,99.1
+Kannada,Child (6-12),Postgraduate,Media + School,14,Yes,100.0,89.7,100.0,96.4
+Marathi,Child (6-12),Secondary,Immersive,3,No,91.8,71.0,85.6,82.7
+Kannada,Adult (20-35),Graduate,Media + School,8,Yes,100.0,82.1,98.9,93.4
+Marathi,Child (6-12),Postgraduate,School Only,6,No,90.3,97.5,96.9,94.8
+Hindi,Adult (20-35),No Formal,Native,2,Yes,67.3,57.2,70.7,64.8
+Bengali,Senior (36+),Graduate,Media + School,2,Yes,96.0,100.0,77.9,92.0
+Marathi,Teenager (13-19),No Formal,School Only,5,Yes,57.3,56.3,41.2,52.1
+Tamil,Child (6-12),Primary,Native,5,Yes,90.4,81.6,98.1,89.6
+Tamil,Teenager (13-19),Graduate,Media + School,3,Yes,86.3,92.1,100.0,92.4
+English,Teenager (13-19),No Formal,Media + School,14,No,63.7,42.8,48.1,51.7
+Marathi,Senior (36+),Secondary,School Only,14,No,79.4,61.9,99.7,79.4
+Bengali,Teenager (13-19),Secondary,Native,8,No,92.7,93.2,90.2,92.1
+Kannada,Adult (20-35),Primary,Native,3,Yes,73.7,86.9,73.3,78.2
+Hindi,Teenager (13-19),Graduate,Media + School,8,No,100.0,100.0,95.8,98.7
+English,Teenager (13-19),Graduate,Media + School,3,Yes,100.0,100.0,86.7,96.0
+Tamil,Teenager (13-19),Graduate,Media + School,1,Yes,88.6,87.4,86.5,87.6
+Kannada,Child (6-12),Primary,Native,1,Yes,65.8,68.6,87.7,73.4
+Kannada,Child (6-12),Graduate,School Only,4,No,77.9,63.7,77.0,72.7
+Hindi,Adult (20-35),Secondary,School Only,3,Yes,78.0,72.7,87.1,78.9
+Marathi,Adult (20-35),No Formal,Native,6,No,60.9,53.8,61.3,58.5
+Tamil,Child (6-12),Secondary,Immersive,13,No,100.0,70.7,99.9,89.7
+Bengali,Adult (20-35),Secondary,School Only,10,Yes,91.3,91.6,81.1,88.3
+Kannada,Child (6-12),No Formal,Media + School,4,Yes,61.8,63.2,63.4,62.8
+Hindi,Senior (36+),Secondary,Immersive,5,No,85.1,74.5,87.0,82.0
+Bengali,Teenager (13-19),Primary,Immersive,9,No,62.4,57.9,76.1,64.9
+Marathi,Teenager (13-19),No Formal,School Only,3,No,32.9,29.3,29.8,30.7
+Tamil,Adult (20-35),Secondary,Immersive,12,No,100.0,79.9,99.9,92.9
+Marathi,Child (6-12),Postgraduate,Immersive,11,No,100.0,100.0,100.0,100.0
+Kannada,Child (6-12),Secondary,School Only,1,No,65.5,54.8,70.2,63.2
+Bengali,Adult (20-35),Primary,School Only,12,Yes,70.5,67.3,79.8,72.2
+Bengali,Child (6-12),Graduate,Immersive,9,No,95.3,100.0,100.0,98.4
+Bengali,Senior (36+),Secondary,Media + School,8,No,79.0,77.3,78.8,78.3
+Kannada,Teenager (13-19),Graduate,Native,9,No,100.0,94.9,100.0,98.2
+Kannada,Adult (20-35),Postgraduate,Immersive,14,No,100.0,99.5,100.0,99.8
+Marathi,Adult (20-35),Secondary,Immersive,6,Yes,92.1,75.7,100.0,88.7
+English,Child (6-12),No Formal,Media + School,3,Yes,45.0,41.1,52.8,46.0
+Marathi,Adult (20-35),Graduate,Immersive,2,No,100.0,72.1,99.3,90.0
+Tamil,Senior (36+),Postgraduate,Immersive,9,No,100.0,99.8,100.0,99.9
+Hindi,Child (6-12),No Formal,Native,13,No,81.1,64.2,74.9,73.3
+Bengali,Child (6-12),No Formal,Native,14,Yes,93.2,76.1,93.7,87.4
+English,Child (6-12),No Formal,Native,2,Yes,62.4,61.4,68.9,64.0
+Hindi,Child (6-12),No Formal,School Only,8,Yes,43.9,57.5,54.3,51.8
+English,Senior (36+),Secondary,School Only,4,Yes,59.3,72.0,69.8,66.9
+Marathi,Child (6-12),Secondary,Native,12,Yes,96.2,100.0,94.6,97.0
+Kannada,Adult (20-35),Secondary,Native,14,Yes,100.0,98.0,100.0,99.3
+Bengali,Senior (36+),Postgraduate,School Only,2,No,99.0,80.0,90.2,89.7
+Marathi,Teenager (13-19),Postgraduate,Media + School,14,Yes,100.0,87.4,100.0,95.6
+Hindi,Teenager (13-19),Postgraduate,Immersive,4,Yes,100.0,92.7,100.0,97.4
+Hindi,Adult (20-35),Primary,Immersive,1,No,43.7,72.7,73.9,62.9
+Hindi,Adult (20-35),Postgraduate,Native,10,Yes,100.0,97.5,97.2,98.3
+Hindi,Senior (36+),Secondary,Media + School,3,No,79.6,76.4,69.8,75.5
+Hindi,Teenager (13-19),Secondary,School Only,9,Yes,85.8,87.0,88.9,87.2
+English,Teenager (13-19),Primary,Native,1,No,65.3,60.6,72.5,65.8
+Marathi,Teenager (13-19),Primary,Media + School,1,No,59.0,54.4,55.2,56.2
+Bengali,Teenager (13-19),Postgraduate,Media + School,11,No,100.0,100.0,100.0,100.0
+Kannada,Teenager (13-19),Graduate,Media + School,7,No,91.7,79.7,96.8,89.0
+Kannada,Child (6-12),Primary,School Only,0,No,45.6,58.5,47.8,50.8
+Marathi,Adult (20-35),No Formal,School Only,13,Yes,61.0,35.1,83.9,58.8
+Marathi,Child (6-12),Secondary,Immersive,6,Yes,100.0,100.0,100.0,100.0
+Kannada,Teenager (13-19),No Formal,Immersive,4,No,34.2,48.2,60.6,47.0
+Kannada,Senior (36+),Secondary,Media + School,14,No,94.5,90.4,85.6,90.4
+English,Senior (36+),Secondary,Media + School,10,No,82.1,91.1,90.1,87.6
+Tamil,Teenager (13-19),Primary,School Only,7,Yes,70.0,61.9,79.0,69.9
+Bengali,Teenager (13-19),Primary,Immersive,0,No,54.7,65.0,53.6,58.0
+Hindi,Senior (36+),No Formal,Media + School,10,No,52.6,53.9,70.3,58.4
+Tamil,Child (6-12),Secondary,Immersive,6,No,89.7,83.1,88.2,86.9
+Marathi,Child (6-12),No Formal,Immersive,4,No,75.9,56.1,57.2,63.4
+Kannada,Teenager (13-19),Graduate,Media + School,3,Yes,100.0,91.2,89.5,93.8
+Tamil,Child (6-12),No Formal,School Only,6,No,32.2,42.1,26.4,33.9
+Bengali,Senior (36+),Postgraduate,Media + School,9,No,100.0,91.3,97.2,96.1
+Marathi,Child (6-12),No Formal,Media + School,14,Yes,65.4,73.1,72.9,70.3
+Hindi,Teenager (13-19),Postgraduate,Immersive,1,No,87.1,100.0,100.0,95.5
+Hindi,Senior (36+),Postgraduate,Media + School,11,No,100.0,89.6,100.0,96.4
+Bengali,Child (6-12),Postgraduate,School Only,14,Yes,100.0,88.4,93.9,94.1
+Bengali,Adult (20-35),Graduate,Media + School,0,Yes,82.8,84.6,89.8,85.5
+Kannada,Senior (36+),No Formal,School Only,0,Yes,48.4,43.5,64.0,51.4
+Hindi,Senior (36+),No Formal,School Only,10,No,48.9,53.6,40.1,47.9
+Marathi,Adult (20-35),Graduate,Immersive,11,No,100.0,98.6,100.0,99.5
+Tamil,Adult (20-35),Secondary,Native,0,Yes,88.9,81.4,89.3,86.4
+Marathi,Senior (36+),Primary,Native,14,Yes,100.0,93.6,93.5,95.8
+English,Adult (20-35),No Formal,Immersive,11,Yes,77.4,81.0,70.8,76.7
+English,Teenager (13-19),Primary,Media + School,4,No,59.1,60.3,57.1,58.9
+Bengali,Teenager (13-19),Graduate,Immersive,9,No,100.0,100.0,100.0,100.0
+Kannada,Teenager (13-19),Secondary,School Only,6,Yes,79.6,68.2,74.5,74.1
+English,Senior (36+),Secondary,Native,1,No,77.4,67.0,83.8,75.7
+Hindi,Adult (20-35),Secondary,Immersive,9,Yes,81.7,97.6,100.0,92.8
+Marathi,Adult (20-35),Graduate,Media + School,7,No,100.0,74.4,100.0,91.0
+Marathi,Child (6-12),Postgraduate,Immersive,3,No,100.0,100.0,100.0,100.0
+Bengali,Child (6-12),Postgraduate,Native,11,No,100.0,94.7,100.0,98.1
+Tamil,Adult (20-35),Primary,Immersive,2,No,62.5,54.0,59.2,58.5
+Bengali,Adult (20-35),Postgraduate,Immersive,9,Yes,100.0,100.0,100.0,100.0
+Tamil,Adult (20-35),Postgraduate,Native,10,No,100.0,93.9,100.0,97.9
+Bengali,Senior (36+),Secondary,School Only,7,No,57.7,70.8,91.5,72.4
+Bengali,Adult (20-35),Secondary,School Only,1,Yes,89.7,59.7,61.9,70.9
+Bengali,Child (6-12),Primary,Native,10,No,70.1,72.5,89.6,76.8
+Tamil,Senior (36+),No Formal,Immersive,10,Yes,61.7,82.9,73.6,72.7
+Tamil,Adult (20-35),Primary,Native,12,Yes,89.5,83.7,100.0,90.6
+Bengali,Child (6-12),Primary,School Only,2,No,58.3,52.7,37.6,50.1
+English,Senior (36+),Graduate,Media + School,11,No,99.6,99.0,100.0,99.5
+Kannada,Adult (20-35),Graduate,Immersive,2,Yes,93.1,100.0,100.0,97.6
+Kannada,Adult (20-35),Primary,School Only,9,Yes,78.5,72.6,74.4,75.2
+Kannada,Adult (20-35),Primary,Immersive,10,Yes,90.8,79.0,84.5,84.8
+Tamil,Senior (36+),Primary,Native,0,No,69.3,60.2,78.4,68.8
+Tamil,Child (6-12),Postgraduate,Media + School,5,Yes,100.0,100.0,100.0,100.0
+English,Child (6-12),Graduate,Native,1,Yes,100.0,100.0,97.8,99.3
+Kannada,Teenager (13-19),Primary,Media + School,0,Yes,80.5,78.4,64.9,75.1
+Kannada,Adult (20-35),Secondary,Immersive,1,No,71.0,68.3,91.0,76.1
+Bengali,Teenager (13-19),Secondary,Immersive,11,Yes,100.0,87.0,100.0,95.4
+Tamil,Teenager (13-19),Postgraduate,Native,5,No,100.0,100.0,100.0,100.0
+Kannada,Child (6-12),Postgraduate,Media + School,13,No,100.0,100.0,100.0,100.0
+Marathi,Senior (36+),No Formal,Media + School,3,Yes,39.0,68.1,50.9,52.8
+English,Senior (36+),No Formal,Immersive,5,No,51.1,56.9,52.2,53.5
+Marathi,Child (6-12),No Formal,Native,11,Yes,70.0,59.7,80.9,69.7
+Marathi,Senior (36+),Postgraduate,Media + School,8,No,100.0,100.0,100.0,100.0
+English,Teenager (13-19),Postgraduate,Immersive,12,No,100.0,94.5,100.0,98.1
+Marathi,Adult (20-35),Postgraduate,School Only,9,Yes,91.9,100.0,100.0,97.2
+Kannada,Child (6-12),Secondary,Native,11,Yes,100.0,97.5,95.3,97.7
+Tamil,Adult (20-35),Postgraduate,School Only,9,Yes,100.0,100.0,99.0,99.7
+English,Senior (36+),Secondary,Native,7,No,89.0,71.5,87.7,82.5
+Bengali,Adult (20-35),No Formal,Immersive,0,No,50.8,39.4,43.8,44.7
+Marathi,Senior (36+),No Formal,Media + School,12,Yes,68.8,74.3,74.1,72.3
+English,Senior (36+),No Formal,Media + School,7,Yes,61.2,31.3,61.4,50.8
+Hindi,Teenager (13-19),Primary,Media + School,8,No,62.8,60.3,63.9,62.3
+Hindi,Senior (36+),Primary,Native,5,No,62.8,81.3,74.4,72.8
+Tamil,Teenager (13-19),Graduate,Immersive,9,No,94.5,95.6,100.0,96.5
+Kannada,Teenager (13-19),Graduate,School Only,14,Yes,100.0,99.7,98.1,99.3
+Tamil,Teenager (13-19),Graduate,Immersive,4,No,96.2,100.0,100.0,98.7
+Tamil,Child (6-12),Primary,School Only,5,Yes,61.4,70.8,72.1,67.9
+Tamil,Child (6-12),Primary,Native,12,No,79.6,91.3,69.9,80.8
+Tamil,Senior (36+),Graduate,Native,5,No,100.0,91.8,94.9,95.6
+Bengali,Teenager (13-19),Graduate,School Only,8,Yes,100.0,94.8,93.6,96.3
+Bengali,Child (6-12),Postgraduate,School Only,3,Yes,96.8,91.7,100.0,96.0
+English,Teenager (13-19),Graduate,School Only,1,Yes,75.8,84.7,100.0,86.2
+Hindi,Adult (20-35),Postgraduate,Immersive,10,No,100.0,100.0,100.0,100.0
+Tamil,Adult (20-35),Secondary,School Only,10,No,73.4,77.1,68.3,73.2
+English,Adult (20-35),Primary,Native,8,No,77.3,72.0,75.9,75.0
+Hindi,Senior (36+),Graduate,Native,1,Yes,100.0,100.0,100.0,100.0
+Marathi,Teenager (13-19),Primary,Media + School,9,No,66.3,63.3,87.1,71.5
+Kannada,Adult (20-35),Primary,School Only,8,Yes,69.3,73.3,77.4,73.1
+Bengali,Child (6-12),Primary,Immersive,1,Yes,62.1,60.1,67.5,63.0
+Marathi,Adult (20-35),Secondary,Immersive,11,Yes,99.7,93.5,100.0,97.6
+Hindi,Adult (20-35),No Formal,Immersive,7,No,60.4,46.8,62.3,56.2
+Marathi,Adult (20-35),Graduate,Media + School,8,No,82.6,92.1,85.5,86.8
+Kannada,Senior (36+),No Formal,Native,11,Yes,78.1,80.8,71.9,77.2
+Hindi,Child (6-12),No Formal,Immersive,9,No,59.3,69.2,48.7,59.6
+Marathi,Teenager (13-19),No Formal,Native,8,Yes,72.3,67.7,67.8,69.3
+Bengali,Child (6-12),Primary,Media + School,9,Yes,84.8,89.8,68.1,81.5
+Bengali,Teenager (13-19),Postgraduate,School Only,8,No,99.7,93.7,100.0,97.7
+English,Senior (36+),Primary,School Only,1,Yes,68.3,67.2,79.8,71.4
+Marathi,Senior (36+),Primary,School Only,3,Yes,51.6,47.3,69.2,55.4
+Tamil,Senior (36+),No Formal,Immersive,6,No,55.1,47.4,61.8,54.4
+Marathi,Senior (36+),Primary,School Only,11,Yes,72.2,82.3,60.1,72.1
+Hindi,Teenager (13-19),No Formal,Immersive,1,Yes,47.9,53.1,56.6,52.3
+Hindi,Adult (20-35),Postgraduate,Media + School,0,Yes,100.0,100.0,98.3,99.5
+Marathi,Teenager (13-19),Graduate,Media + School,2,Yes,100.0,90.4,89.8,93.6
+Kannada,Child (6-12),No Formal,Immersive,11,Yes,71.4,76.6,81.6,76.3
+Bengali,Senior (36+),Postgraduate,Native,3,Yes,100.0,92.1,100.0,97.2
+Hindi,Senior (36+),Graduate,School Only,7,Yes,96.2,97.3,98.7,97.3
+Bengali,Child (6-12),Secondary,School Only,5,No,61.8,56.9,68.1,62.0
+Hindi,Teenager (13-19),No Formal,School Only,10,No,30.4,44.3,32.5,35.9
+English,Adult (20-35),No Formal,Immersive,1,Yes,50.9,74.8,60.8,62.2
+Tamil,Adult (20-35),Secondary,Media + School,14,Yes,87.9,94.8,91.8,91.5
+Hindi,Child (6-12),Secondary,School Only,8,No,85.6,72.1,84.2,80.5
+Bengali,Adult (20-35),No Formal,Media + School,13,No,56.6,66.6,69.7,64.0
+English,Teenager (13-19),Secondary,School Only,1,No,58.7,56.3,65.9,60.0
+Hindi,Teenager (13-19),Primary,School Only,12,No,70.1,70.3,45.7,62.8
+Kannada,Child (6-12),Graduate,Immersive,14,No,100.0,95.4,96.0,97.2
+Tamil,Teenager (13-19),Graduate,Native,11,Yes,100.0,94.9,100.0,98.2
+Hindi,Senior (36+),Graduate,Immersive,4,No,96.5,98.7,89.0,95.0
+English,Child (6-12),Primary,School Only,11,No,69.7,51.5,48.2,56.9
+Kannada,Teenager (13-19),Secondary,School Only,3,No,68.5,69.6,68.1,68.8
+Marathi,Child (6-12),Postgraduate,Native,12,Yes,100.0,96.5,100.0,98.8
+English,Adult (20-35),Secondary,Media + School,6,Yes,87.6,83.9,91.2,87.4
+English,Teenager (13-19),No Formal,Media + School,7,Yes,61.7,55.1,47.5,55.1
+Kannada,Senior (36+),Graduate,School Only,4,Yes,92.6,99.1,74.8,89.5
+English,Teenager (13-19),Secondary,Media + School,9,Yes,83.3,89.3,93.5,88.5
+Kannada,Child (6-12),Postgraduate,School Only,13,Yes,100.0,86.4,100.0,95.2
+Hindi,Child (6-12),No Formal,Native,13,No,60.9,62.7,79.9,67.2
+Kannada,Teenager (13-19),Primary,Native,4,Yes,81.6,85.9,84.2,83.9
+Kannada,Senior (36+),Primary,School Only,1,Yes,52.7,43.3,58.9,51.3
+Tamil,Senior (36+),Postgraduate,Native,7,No,100.0,98.2,94.4,97.7
+Kannada,Senior (36+),No Formal,Immersive,13,Yes,74.2,100.0,91.8,88.5
+Kannada,Child (6-12),Graduate,Immersive,1,No,80.3,89.2,100.0,89.3
+Marathi,Teenager (13-19),Secondary,Native,9,No,92.4,99.0,78.6,90.6
+Hindi,Adult (20-35),No Formal,School Only,11,Yes,60.7,50.0,52.3,54.4
+Tamil,Child (6-12),Primary,School Only,5,No,65.9,54.0,49.2,56.7
+Marathi,Senior (36+),Postgraduate,Native,7,No,100.0,100.0,100.0,100.0
+Bengali,Teenager (13-19),Postgraduate,Media + School,5,No,87.8,100.0,100.0,95.7
+Hindi,Senior (36+),Secondary,Immersive,3,No,86.0,69.3,90.6,81.5
+Hindi,Adult (20-35),Postgraduate,Media + School,12,Yes,100.0,85.0,89.7,91.7
+Bengali,Senior (36+),Postgraduate,School Only,3,No,86.0,88.7,78.2,84.6
+Kannada,Senior (36+),No Formal,School Only,5,Yes,45.4,49.5,59.0,50.9
+Marathi,Adult (20-35),Graduate,Media + School,13,No,100.0,92.4,100.0,97.3
+English,Teenager (13-19),Secondary,Native,14,No,100.0,100.0,99.5,99.8
+Tamil,Child (6-12),No Formal,Media + School,12,No,50.5,48.9,63.4,53.8
+English,Teenager (13-19),Graduate,Media + School,3,Yes,95.3,90.1,100.0,94.9
+Bengali,Adult (20-35),No Formal,Immersive,7,Yes,65.4,54.4,77.8,65.3
+Hindi,Senior (36+),No Formal,Immersive,8,Yes,68.2,75.3,74.5,72.6
+Hindi,Teenager (13-19),Postgraduate,Media + School,0,No,93.8,87.7,99.0,93.2
+Tamil,Child (6-12),Graduate,Media + School,12,No,100.0,91.7,90.0,94.1
+Hindi,Adult (20-35),Secondary,School Only,3,No,71.3,64.0,57.8,64.7
+Hindi,Teenager (13-19),Secondary,Immersive,3,No,82.6,72.3,85.5,79.9
+Tamil,Child (6-12),Graduate,Immersive,1,Yes,100.0,100.0,99.0,99.7
+Marathi,Adult (20-35),Postgraduate,School Only,5,No,79.8,96.0,100.0,91.5
+Marathi,Child (6-12),Primary,Native,2,Yes,78.4,79.2,88.0,81.6
+Tamil,Adult (20-35),No Formal,Immersive,6,No,57.8,52.2,60.2,56.6
+Bengali,Senior (36+),Postgraduate,Immersive,12,Yes,100.0,100.0,100.0,100.0
+Hindi,Teenager (13-19),Graduate,Native,10,Yes,100.0,96.8,91.7,96.4
+Hindi,Child (6-12),No Formal,Immersive,10,No,54.7,58.5,62.3,58.3
+Bengali,Adult (20-35),Secondary,Immersive,4,No,76.4,73.6,95.8,81.2
+Marathi,Child (6-12),Primary,Native,3,Yes,83.8,79.4,90.4,84.2
+Kannada,Child (6-12),Secondary,Native,4,No,94.3,84.6,95.1,91.1
+Kannada,Teenager (13-19),Graduate,Media + School,7,No,90.2,98.8,100.0,96.2
+Kannada,Senior (36+),No Formal,School Only,2,Yes,50.3,35.7,56.4,47.0
+Marathi,Child (6-12),Graduate,School Only,13,Yes,100.0,99.4,93.8,97.9
+Marathi,Adult (20-35),No Formal,Native,6,Yes,68.0,72.9,67.8,69.7
+Bengali,Adult (20-35),Postgraduate,Native,14,Yes,100.0,98.4,95.9,98.2
+Hindi,Senior (36+),Primary,Immersive,13,No,85.5,77.1,78.6,80.5
+Bengali,Adult (20-35),Postgraduate,Media + School,5,Yes,100.0,100.0,99.4,99.8
+Bengali,Senior (36+),Postgraduate,Media + School,11,Yes,100.0,100.0,100.0,100.0
+Marathi,Adult (20-35),Graduate,Native,0,Yes,98.2,90.7,100.0,96.1
+Kannada,Teenager (13-19),Primary,Immersive,12,No,82.1,68.5,98.7,82.3
+English,Child (6-12),No Formal,Immersive,6,Yes,59.8,58.4,54.9,57.8
+Hindi,Teenager (13-19),No Formal,School Only,13,No,42.5,65.1,52.2,53.3
+Marathi,Child (6-12),Secondary,School Only,12,Yes,87.9,86.2,77.9,84.3
+Kannada,Child (6-12),No Formal,Immersive,6,Yes,65.1,58.3,68.9,63.9
+English,Child (6-12),Graduate,School Only,13,No,100.0,87.3,97.7,94.9
+English,Teenager (13-19),Postgraduate,Native,14,Yes,100.0,95.3,95.9,97.1
+Marathi,Child (6-12),Postgraduate,Immersive,11,Yes,100.0,97.3,100.0,99.1
+Tamil,Teenager (13-19),Postgraduate,School Only,0,No,87.2,74.9,85.3,82.3
+Hindi,Senior (36+),Primary,Media + School,8,Yes,58.4,74.4,83.4,71.5
+English,Adult (20-35),No Formal,Immersive,5,Yes,61.8,63.3,77.8,67.1
+Marathi,Adult (20-35),Graduate,Immersive,14,Yes,100.0,94.4,99.4,97.9
+Marathi,Child (6-12),Primary,Media + School,11,Yes,85.9,80.2,88.4,84.7
+Kannada,Teenager (13-19),Secondary,Native,1,No,89.3,100.0,72.0,87.9
+Tamil,Adult (20-35),Graduate,Media + School,4,Yes,95.0,99.8,87.1,94.3
+Hindi,Teenager (13-19),Graduate,Immersive,12,No,100.0,96.4,100.0,98.7
+Bengali,Teenager (13-19),Graduate,Native,10,Yes,100.0,96.0,100.0,98.6
+Kannada,Child (6-12),Postgraduate,School Only,3,No,80.5,78.1,86.4,81.4
+English,Adult (20-35),Graduate,School Only,6,Yes,96.5,98.3,100.0,98.2
+English,Child (6-12),No Formal,School Only,7,No,30.3,37.3,25.8,31.4
+Kannada,Child (6-12),Graduate,Immersive,10,Yes,100.0,100.0,100.0,100.0
+Marathi,Adult (20-35),Postgraduate,Media + School,13,No,100.0,99.3,100.0,99.8
+English,Adult (20-35),Graduate,Native,14,No,100.0,92.7,100.0,97.4
+Tamil,Senior (36+),Secondary,School Only,10,Yes,99.4,78.5,96.0,91.1
+Hindi,Senior (36+),Secondary,Native,0,No,69.6,65.3,82.0,71.8
+Tamil,Teenager (13-19),Postgraduate,Immersive,4,Yes,100.0,98.6,100.0,99.5
+English,Adult (20-35),No Formal,School Only,14,Yes,60.0,50.7,55.7,55.5
+Bengali,Senior (36+),No Formal,Immersive,2,Yes,58.1,49.7,60.2,55.8
+Hindi,Teenager (13-19),Primary,Media + School,0,Yes,64.7,70.0,70.3,68.2
+Hindi,Teenager (13-19),Postgraduate,Immersive,11,Yes,100.0,98.4,98.8,99.1
+Kannada,Teenager (13-19),Graduate,Immersive,2,No,91.4,93.1,90.9,91.8
+Kannada,Senior (36+),Postgraduate,Media + School,13,Yes,100.0,94.1,99.7,97.8
+Bengali,Adult (20-35),Primary,Native,5,Yes,90.8,80.4,100.0,89.9
+Marathi,Child (6-12),Postgraduate,Media + School,13,Yes,100.0,95.3,91.5,95.8
+Hindi,Teenager (13-19),Postgraduate,Media + School,6,Yes,100.0,98.0,93.9,97.5
+Bengali,Senior (36+),Primary,Immersive,7,Yes,82.2,78.6,88.4,82.8
+Kannada,Senior (36+),No Formal,Native,12,Yes,70.7,68.1,94.2,76.8
+Kannada,Child (6-12),Graduate,School Only,10,No,100.0,92.1,79.6,91.1
+Hindi,Child (6-12),Primary,Media + School,3,No,52.4,39.0,61.1,50.3
+Tamil,Senior (36+),Secondary,Native,2,Yes,92.7,85.5,96.9,91.4
+English,Adult (20-35),No Formal,Media + School,4,No,48.4,34.0,34.7,39.2
+Kannada,Child (6-12),Secondary,Media + School,8,Yes,85.3,97.9,68.0,84.5
+Marathi,Senior (36+),No Formal,Media + School,12,Yes,51.2,62.1,58.5,57.2
+Marathi,Child (6-12),Graduate,Media + School,5,Yes,97.1,90.3,96.1,94.4
+Kannada,Adult (20-35),Graduate,Immersive,14,Yes,100.0,93.8,83.6,92.9
+Tamil,Teenager (13-19),Postgraduate,Native,8,Yes,100.0,85.9,97.0,94.2
+Tamil,Child (6-12),Secondary,Native,14,No,94.2,99.4,92.0,95.4
+Bengali,Adult (20-35),No Formal,Native,5,No,64.9,38.3,69.1,56.8
+Marathi,Senior (36+),Graduate,Media + School,1,No,81.9,68.7,78.5,76.3
+Bengali,Child (6-12),Primary,Immersive,12,No,73.9,84.0,94.0,83.5
+Marathi,Child (6-12),Graduate,Media + School,4,Yes,100.0,94.0,94.9,96.4
+English,Senior (36+),Primary,Media + School,11,No,75.7,75.3,56.4,69.8
+English,Teenager (13-19),No Formal,Native,10,Yes,94.1,56.8,87.2,79.0
+Hindi,Senior (36+),Graduate,Media + School,8,No,100.0,97.8,73.3,91.2
+Bengali,Child (6-12),Graduate,School Only,7,No,94.8,83.8,83.8,87.6
+Kannada,Senior (36+),No Formal,Media + School,6,No,43.0,33.9,48.1,41.3
+Bengali,Adult (20-35),Graduate,School Only,0,No,66.8,75.6,75.8,72.6
+Kannada,Senior (36+),Primary,Media + School,3,Yes,68.0,52.3,80.6,66.3
+Tamil,Child (6-12),Graduate,Immersive,11,No,100.0,94.3,100.0,98.0
+Bengali,Senior (36+),Secondary,Immersive,6,No,75.4,79.8,100.0,84.3
+Tamil,Teenager (13-19),Postgraduate,Native,10,Yes,100.0,99.9,100.0,100.0
+English,Senior (36+),Primary,Media + School,6,Yes,75.2,61.1,93.4,75.7
+English,Teenager (13-19),Secondary,School Only,14,No,83.9,88.6,100.0,90.4
+Hindi,Adult (20-35),No Formal,School Only,5,Yes,51.5,42.8,65.6,52.7
+Bengali,Teenager (13-19),Primary,Media + School,7,Yes,75.8,70.5,93.8,79.3
+Tamil,Senior (36+),Postgraduate,School Only,10,Yes,100.0,94.4,98.6,97.6
+Kannada,Child (6-12),Postgraduate,Immersive,12,No,100.0,100.0,100.0,100.0
+English,Teenager (13-19),No Formal,School Only,5,Yes,37.9,40.6,30.7,36.7
+English,Adult (20-35),No Formal,Native,9,No,77.8,51.5,65.4,64.9
+Kannada,Teenager (13-19),Primary,Immersive,2,No,63.1,67.1,84.1,70.8
+Tamil,Teenager (13-19),Graduate,Immersive,3,No,92.7,96.0,100.0,96.0
+Tamil,Teenager (13-19),No Formal,Immersive,13,No,57.1,62.2,50.8,57.0
+Bengali,Adult (20-35),Graduate,Media + School,2,Yes,100.0,98.1,93.9,97.5
+Bengali,Senior (36+),Secondary,Media + School,0,No,59.4,74.6,74.1,69.1
+Marathi,Teenager (13-19),Postgraduate,Immersive,14,Yes,100.0,87.0,100.0,95.4
+Marathi,Teenager (13-19),Graduate,Media + School,9,No,99.8,100.0,81.4,94.4
+Hindi,Child (6-12),Postgraduate,School Only,4,Yes,100.0,87.6,100.0,95.7
+English,Adult (20-35),Graduate,Media + School,14,No,100.0,100.0,100.0,100.0
+Bengali,Teenager (13-19),Secondary,Media + School,0,Yes,92.5,71.0,83.6,82.3
+Tamil,Adult (20-35),No Formal,Immersive,0,No,49.0,50.4,51.5,50.2
+Kannada,Teenager (13-19),Secondary,Native,1,No,73.1,72.8,79.8,75.0
+Tamil,Senior (36+),No Formal,Native,12,Yes,75.9,68.3,78.9,74.1
+English,Senior (36+),No Formal,Native,3,No,57.0,48.0,53.2,52.7
+Marathi,Teenager (13-19),Postgraduate,School Only,5,No,100.0,89.9,96.0,95.3
+Tamil,Senior (36+),Secondary,Media + School,7,No,67.3,66.8,75.8,69.7
+Hindi,Teenager (13-19),Graduate,Native,12,Yes,100.0,100.0,100.0,100.0
+English,Senior (36+),Secondary,Immersive,2,No,79.4,88.1,91.2,86.0
+Marathi,Child (6-12),Postgraduate,Native,0,No,100.0,86.7,99.7,95.3
+Kannada,Child (6-12),No Formal,Native,2,Yes,62.2,51.3,55.6,56.4
+Marathi,Child (6-12),Postgraduate,Media + School,11,Yes,100.0,93.1,100.0,97.6
+Hindi,Adult (20-35),Primary,Media + School,2,Yes,72.0,54.6,67.7,64.6
+English,Adult (20-35),Primary,Media + School,4,Yes,74.2,53.6,64.0,63.9
+Kannada,Child (6-12),Graduate,School Only,10,Yes,100.0,87.2,100.0,95.5
+Hindi,Adult (20-35),Postgraduate,School Only,11,No,100.0,94.1,98.5,97.5
+Marathi,Senior (36+),Graduate,Native,11,No,100.0,88.1,100.0,95.8
+Hindi,Teenager (13-19),Graduate,Media + School,3,No,75.0,80.1,80.9,78.6
+English,Teenager (13-19),Primary,Native,12,Yes,99.6,79.1,88.0,88.9
+Bengali,Teenager (13-19),Graduate,Immersive,3,No,97.9,91.8,80.5,90.5
+Hindi,Child (6-12),Primary,Immersive,8,Yes,74.3,63.7,81.9,72.9
+Hindi,Adult (20-35),No Formal,Media + School,6,Yes,52.7,58.7,55.7,55.7
+Marathi,Senior (36+),Postgraduate,Media + School,3,No,93.8,94.0,100.0,95.7
+Marathi,Senior (36+),Graduate,Immersive,2,Yes,91.1,90.2,99.2,93.2
+Kannada,Child (6-12),Primary,Media + School,5,Yes,64.0,65.7,70.7,66.6
+Marathi,Senior (36+),Secondary,School Only,2,No,53.9,60.1,62.0,58.5
+Tamil,Senior (36+),Graduate,School Only,5,Yes,89.2,83.9,84.4,85.9
+English,Senior (36+),No Formal,Media + School,10,Yes,57.1,63.1,60.7,60.3
